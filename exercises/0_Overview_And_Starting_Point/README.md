@@ -91,6 +91,9 @@ It consists of:
 - One dimension of type Generic called "Currency" containing the involved transaction currencies
 
 ## 0.6 - Stories in SAP Analytics Cloud
+An SAP Analytics Cloud story is a presentation-style document that uses charts, visualizations, text, images, and pictograms to describe data. You can also plan and change data via stories.
+Once you create or open a story, you can add and edit pages, sections, and elements as you like. The story toolbar is divided into different categories such as File, Insert, Data, and Tools to help you find options and perform tasks more efficiently.
+
 We created one story with two pages to be copied and edited as part of our workshop. The first page contains visualizations of our data in a dashboarding sense while the second page contains tables and actions for planning purposes. 
 
 <br>![](/exercises/0_Overview_And_Starting_Point/images/0.6_Story_Dashboard.png)
