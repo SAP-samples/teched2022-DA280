@@ -13,9 +13,9 @@ In this session, we will build an end-to-end integrated planning application wit
 
 The requirements to follow the exercises in this repository are:
 
-SAP SAC tenant
+- SAP SAC tenant
 
-SAP DWC tenant
+- SAP DWC tenant
 
 The above requirements have already been met and have been pre-created by SAP.
 
