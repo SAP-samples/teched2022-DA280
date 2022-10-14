@@ -98,3 +98,15 @@ We created one story with two pages to be copied and edited as part of our works
 
 <br>![](/exercises/0_Overview_And_Starting_Point/images/0.6_Story_Dashboard.png)
 <br>![](/exercises/0_Overview_And_Starting_Point/images/0.6_Story_Tables.png)
+
+## 0.7 - What else will you learn?
+In SAP Analytics Cloud:
+- [Multi Actions](https://help.sap.com/docs/SAP_ANALYTICS_CLOUD/00f68c2e08b941f081002fd3691d86a7/b1a98c566bc64ce78871ee3c0b559d6f.html?q=Multi%20Action#loiob1a98c566bc64ce78871ee3c0b559d6f)
+- [Data Actions](https://help.sap.com/docs/SAP_ANALYTICS_CLOUD/00f68c2e08b941f081002fd3691d86a7/2850221adef14958a4554ad2860ff412.html?)
+- [Predictive Scenarios](https://help.sap.com/docs/SAP_ANALYTICS_CLOUD/00f68c2e08b941f081002fd3691d86a7/37db2128dab44d15b46e1918829c1ff1.html)
+
+In SAP Data Warehouse Cloud:
+- [Graphical View Builder](https://help.sap.com/docs/SAP_DATA_WAREHOUSE_CLOUD/d4f3c5a0bb074d09ae9b42b2b9bd7a08/2bd7a2af84614b33ac3353a0b4399ba7.html)
+- [Data Integration Monitor](https://help.sap.com/docs/SAP_DATA_WAREHOUSE_CLOUD/be5967d099974c69b77f4549425ca4c0/4cbf7c7fc64645bfa364332827557267.html)
+
+You can now move on to ...
