@@ -17,7 +17,7 @@ The requirements to follow the exercises in this repository are:
 
 - SAP DWC tenant
 
-The above requirements have already been met and have been pre-created by SAP.
+The above requirements have already been met and have been pre-created by SAP. Apart from that, we recommend basic proficiency with modeling and story building in SAP Analytics Cloud and basic proficiency with SAP Data Warehouse Cloud. However, the exercises are suitable for everyone if the materials recommended in the 'Learn More' section are considered.
 
 Exercise 0 explains the architecture of the exercises and provides information regarding each of the components. It is strongly recommended content but does not include hands-on exercises.
 
@@ -43,6 +43,16 @@ Start the exercises [here](https://developers.sap.com/tutorials/abap-environment
 **IMPORTANT**
 
 Your repo must contain the .reuse and LICENSES folder and the License section below. DO NOT REMOVE the section or folders/files. Also, remove all unused template assets(images, folders, etc) from the exercises folder. 
+
+## Learn More
+To learn more about SAP Analytics Cloud, refer to the following sources of information:
+- https://open.sap.com/courses/sac4
+- 	https://open.sap.com/courses/sac5 
+
+To learn more about SAP Data Warehouse Cloud, refer to the following sources of information:
+- https://developers.sap.com/mission.data-warehouse-cloud-get-started.html 
+- https://community.sap.com/topics/data-warehouse-cloud/getting-started
+
 
 ## How to obtain support
 
