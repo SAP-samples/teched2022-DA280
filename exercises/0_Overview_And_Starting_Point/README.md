@@ -17,7 +17,7 @@ In the Data Builder of SAP Data Warehouse Cloud, you can define data models for 
 - A table containing cash flow statement actuals from S/4HANA
 - A view on top of this table
 
-## 0.3 SAP Data Warehouse Cloud - Data Marketplace
+## 0.3 - SAP Data Warehouse Cloud - Data Marketplace
 Data Marketplace is fully integrated into SAP Data Warehouse Cloud. It’s tailored for businesses to easily integrate third-party data. You can search and purchase analytical data from data providers. The data comes in form of objects packaged as data products that can be used in one or several spaces of your SAP Data Warehouse Cloud tenant.
 
 Data products are either provided for free or require the purchase of a license at a certain cost. Some data products are available as one-time shipments, other data products are regularly updated by data providers.
@@ -26,7 +26,7 @@ To get data products into your SAP Data Warehouse Cloud tenant and consume them,
 
 <br>![](/exercises/0_Overview_And_Starting_Point/images/0.3_DataMarketplace.png)
 
-## 0.4 Bi-directional Integration for Planning
+## 0.4 - Bi-directional Integration for Planning
 SAP Data Warehouse Cloud and SAP Analytics Cloud are better together. This is why SAP delivered the bi-directional integration between SAP Data Warehouse Cloud and SAP Analytics Cloud for planning. This enables you to load fact data and master data from Data Warehouse Cloud to SAP Analytics Cloud. Similarly, you can seamlessly retract fact data, master data, and audit data from SAP Analytics Cloud models and use it in SAP Data Warehouse Cloud.
 
 Most importantly, this enables you to use actual data from SAP Data Warehouse Cloud in your planning tables in SAP Analytics Cloud. Additionally, you can join plan and actual data from multiple sources in common views in SAP Data Warehouse Cloud that you can then use for live reporting or any other kind of downstream processing of your plan data. You can also meet corporate requirements to store all steering-relevant data in one data warehouse as a single source of truth.
@@ -68,7 +68,7 @@ The Data Export Service enables a wide range of possible scenarios. It will most
 
 The detailed technical set-up in combination with SAP Data Warehouse Cloud is described in this [blog post](https://blogs.sap.com/2022/06/21/introducing-the-bi-directional-integration-of-sap-data-warehouse-cloud-and-sap-analytics-cloud-for-planning/?preview_id=1561485). Other usage examples for the usage of DES can be found in this [blog post](https://blogs.sap.com/2022/05/30/leverage-the-sap-analytics-cloud-data-export-service-to-extract-your-planning-data-to-sap-hana-sap-business-warehouse-and-sap-s-4hana/). But, bear in mind that DES can also be used by other SAP and 3rd party applications!
 
-## 0.5 Modelling in SAP Analytics Cloud - Liquidity Planning Model
+## 0.5 - Modelling in SAP Analytics Cloud - Liquidity Planning Model
 A model is a representation of the business data of an organization or business segment. You can use a model as the basis for your story. The Modeler is the place where you can create, maintain, and load data into models.
 
 Planning models are prepared and preconfigured to help you perform business planning tasks such as forecasting to support and streamline the planning process, with many off-the-shelf features to give you a quick start in the planning process. When working with this type of model in a story, planning users can use a variety of features to update values in the model, and create new values. Out of the box, planning models come with:
@@ -89,3 +89,8 @@ It consists of:
 - A dimension of type Date called "Time" containing our planning periods and time hierarchy
 - One dimension of type Generic called "SAP_ALL_COMPANY_CODE" containing our company's legal entities
 - One dimension of type Generic called "Currency" containing the involved transaction currencies
+
+## 0.6 - Stories in SAP Analytics Cloud
+We created one story with two pages to be copied and edited as part of our workshop. The first page contains visualizations of our data in a dashboarding sense while the second page contains tables and actions for planning purposes. 
+
+<br>![](/exercises/0_Overview_And_Starting_Point/images/0.6_Story_Tables.png)
