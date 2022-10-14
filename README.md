@@ -1,16 +1,27 @@
-# Session ID - Session Title
+# DA280 - Build an Integrated Planning Scenario with Data and Analytics Solutions
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2022 session called Session ID - Session Title.  
+This repository contains the material for the SAP TechEd 2022 session called DA280 - Build an Integrated Planning Scenario with Data and Analytics Solutions.  
 
 ## Overview
 
-This session introduces attendees to...
+In this session, we will build an end-to-end integrated planning application with SAP Data Warehouse Cloud and SAP Analytics Cloud using the bi-directional data transfer between the two solutions. Besides the data transfer, the session covers data modeling, including the data marketplace in SAP Data Warehouse Cloud, as well as the creation of a planning model with predictive analytics and the respective front end for data entry.
+
 
 ## Requirements
 
-The requirements to follow the exercises in this repository are...
+The requirements to follow the exercises in this repository are:
+
+SAP SAC tenant
+
+SAP DWC tenant
+
+The above requirements have already been met and have been pre-created by SAP.
+
+Exercise 0 explains the architecture of the exercises and provides information regarding each of the components. It is strongly recommended content but does not include hands-on exercises.
+
+The hands-on exercises begin with Exercise 1.
 
 ## Exercises
 
