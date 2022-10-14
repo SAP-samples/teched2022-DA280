@@ -81,3 +81,11 @@ More information on modeling can be found within our [Leanr More materials](http
 
 For our workshop, we have prepared a simple planning model that you will copy later on to load and manipulate data. 
 <br>![](/exercises/0_Overview_And_Starting_Point/images/0.5_LiquidityModel.png)
+
+It consists of:
+- One measure "AMOUNT"
+- A dimension of type Account called "SAP_FI_LIQUIDITY_ITEM" holding the accounts of our cashflow statement and accounts for our external data
+- A dimension of type Version containing the different data versions for actual, budget, plan and forecast data
+- A dimension of type Date called "Time" containing our planning periods and time hierarchy
+- One dimension of type Generic called "SAP_ALL_COMPANY_CODE" containing our company's legal entities
+- One dimension of type Generic called "Currency" containing the involved transaction currencies
