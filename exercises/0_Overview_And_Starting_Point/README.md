@@ -93,4 +93,5 @@ It consists of:
 ## 0.6 - Stories in SAP Analytics Cloud
 We created one story with two pages to be copied and edited as part of our workshop. The first page contains visualizations of our data in a dashboarding sense while the second page contains tables and actions for planning purposes. 
 
+<br>![](/exercises/0_Overview_And_Starting_Point/images/0.6_Story_Dashboard.png)
 <br>![](/exercises/0_Overview_And_Starting_Point/images/0.6_Story_Tables.png)
