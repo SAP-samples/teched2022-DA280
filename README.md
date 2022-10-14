@@ -9,6 +9,12 @@ This repository contains the material for the SAP TechEd 2022 session called DA2
 In this session, we will build an end-to-end integrated planning application with SAP Data Warehouse Cloud and SAP Analytics Cloud using the bi-directional data transfer between the two solutions. Besides the data transfer, the session covers data modeling, including the data marketplace in SAP Data Warehouse Cloud, as well as the creation of a planning model with predictive analytics and the respective front end for data entry.
 
 
+## Use Case
+Energy prices are increasing continuously. Companies are worried about the direct impact on their results and cash flow. Therefore, we want to create an automated liquidity forecast with SAP Analytics Cloud's predictive analytics capabilities on top of internal financial and external data from SAP Data Warehouse Cloud. 
+
+To do so, we look for external data on energy prices in the Data Marketplace within SAP Data Warehouse Cloud. We add this data to our internal cash flow statement actuals and load it to SAP Analytics Cloud to serve as the basis for our new liquidity forecast.
+
+
 ## Requirements
 
 The requirements to follow the exercises in this repository are:
