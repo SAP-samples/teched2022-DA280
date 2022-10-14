@@ -68,3 +68,16 @@ The Data Export Service enables a wide range of possible scenarios. It will most
 
 The detailed technical set-up in combination with SAP Data Warehouse Cloud is described in this [blog post](https://blogs.sap.com/2022/06/21/introducing-the-bi-directional-integration-of-sap-data-warehouse-cloud-and-sap-analytics-cloud-for-planning/?preview_id=1561485). Other usage examples for the usage of DES can be found in this [blog post](https://blogs.sap.com/2022/05/30/leverage-the-sap-analytics-cloud-data-export-service-to-extract-your-planning-data-to-sap-hana-sap-business-warehouse-and-sap-s-4hana/). But, bear in mind that DES can also be used by other SAP and 3rd party applications!
 
+## 0.5 Modelling in SAP Analytics Cloud - Liquidity Planning Model
+A model is a representation of the business data of an organization or business segment. You can use a model as the basis for your story. The Modeler is the place where you can create, maintain, and load data into models.
+
+Planning models are prepared and preconfigured to help you perform business planning tasks such as forecasting to support and streamline the planning process, with many off-the-shelf features to give you a quick start in the planning process. When working with this type of model in a story, planning users can use a variety of features to update values in the model, and create new values. Out of the box, planning models come with:
+- Categories for budgets, plans, and forecasts.
+- Default time periods that you can quickly adjust to suit your data.
+- Auditing features for traceability.
+- Security features that make it possible for you to restrict access to specific values in data grids to named individuals.
+
+More information on modeling can be found within our [Leanr More materials](https://github.com/SAP-samples/teched2022-DA280#learn-more)
+
+For our workshop, we have prepared a simple planning model that you will copy later on to load and manipulate data. 
+<br>![](/exercises/0_Overview_And_Starting_Point/images/0.5_LiquidityModel.png)
