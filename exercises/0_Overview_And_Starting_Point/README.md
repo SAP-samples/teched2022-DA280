@@ -25,3 +25,18 @@ Data products are either provided for free or require the purchase of a license 
 To get data products into your SAP Data Warehouse Cloud tenant and consume them, you can follow a simple workflow:
 
 <br>![](/exercises/0_Overview_And_Starting_Point/images/0.3_DataMarketplace.png)
+
+## 0.4 Bi-directional Integration for Planning
+SAP Data Warehouse Cloud and SAP Analytics Cloud are better together. This is why SAP delivered the bi-directional integration between SAP Data Warehouse Cloud and SAP Analytics Cloud for planning. This enables you to load fact data and master data from Data Warehouse Cloud to SAP Analytics Cloud. Similarly, you can seamlessly retract fact data, master data, and audit data from SAP Analytics Cloud models and use it in SAP Data Warehouse Cloud.
+
+Most importantly, this enables you to use actual data from SAP Data Warehouse Cloud in your planning tables in SAP Analytics Cloud. Additionally, you can join plan and actual data from multiple sources in common views in SAP Data Warehouse Cloud that you can then use for live reporting or any other kind of downstream processing of your plan data. You can also meet corporate requirements to store all steering-relevant data in one data warehouse as a single source of truth.
+
+It is important to understand that the use case of bi-directional integration between SAP Analytics Cloud and SAP Data Warehouse Cloud is enabled by two public APIs:
+
+- SAP Data Warehouse Cloud provides a public OData API (Controlled Release with wave 11) to pull data from DWC and integrate it into SAP Analytics Cloud using the OData Services Connection.
+- SAP Analytics Cloud provides the Data Export Service (DES) API (generally available with QRC2.2022) to pull data from SAC and make it available in Data Warehouse Cloud using remote tables or data flows.
+
+The following image already gives a good high-level overview of our scenario:
+
+<br>![](/exercises/0_Overview_And_Starting_Point/images/0.4_Bidirectional_Integration.png)
+
