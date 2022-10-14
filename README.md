@@ -59,6 +59,9 @@ To learn more about SAP Data Warehouse Cloud, refer to the following sources of 
 - https://developers.sap.com/mission.data-warehouse-cloud-get-started.html 
 - https://community.sap.com/topics/data-warehouse-cloud/getting-started
 
+To learn more about the bi-directional integration between SAP Analytics Cloud and SAP Data Warehouse Cloud for planning, refer to these sources of information:
+- [Blog post: Introducing the Bi-Directional Integration of SAP Data Warehouse Cloud and SAP Analytics Cloud for Planning](https://blogs.sap.com/2022/06/21/introducing-the-bi-directional-integration-of-sap-data-warehouse-cloud-and-sap-analytics-cloud-for-planning/?preview_id=1561485)
+- [Devtoberfest session](https://groups.community.sap.com/t5/devtoberfest/bi-directional-integration-between-sap-data-warehouse-cloud-and/ec-p/9392#M52)
 
 ## How to obtain support
 
