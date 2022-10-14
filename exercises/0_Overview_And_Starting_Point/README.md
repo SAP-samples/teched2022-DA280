@@ -40,3 +40,31 @@ The following image already gives a good high-level overview of our scenario:
 
 <br>![](/exercises/0_Overview_And_Starting_Point/images/0.4_Bidirectional_Integration.png)
 
+### Data transfer from SAP Data Warehouse Cloud to SAP Analytics Cloud - Public API for Data Consumption
+The SAP Data Warehouse Cloud Public API can be used to replicate fact and master data from SAP Data Warehouse Cloud into SAP Analytics Cloud for planning purposes. By using this API, you can authenticate against SAP Data Warehouse Cloud and get access to its data.
+
+In particular, the API has the following key characteristics:
+
+- It supports deployed Data Layer entities which are marked as “expose for consumption”. This includes views of semantic type Analytical Dataset and Dimension.
+- It supports standard OData v4 query parameters ($select, $filter, $top, $skip, $orderBy, $count, etc.).
+- It supports business user access and authentication via OAuth 2.0 authorization c
+
+Moreover, we strongly recommend that the data in question is either replicated (via remote table replication or data flow) or the respective view’s data is snapshotted in SAP Data Warehouse Cloud.
+
+The detailed technical set-up is described in this [blog post](https://blogs.sap.com/2022/06/21/introducing-the-bi-directional-integration-of-sap-data-warehouse-cloud-and-sap-analytics-cloud-for-planning/?preview_id=1561485).
+
+### Data transfer from SAP Analytics Cloud to SAP Data Warehouse Cloud - Data Export Service
+With QRC2.2022, we generally released the new SAP Analytics Cloud Data Export Service (DES) to all SAP Analytics Cloud customers. In a nutshell, this is a generic OData-based pull API that can be triggered from other applications and platforms, including 3rd party tools. There is no dedicated UI for this functionality as the API simply facilitates extraction of SAP Analytics Cloud planning models from an external platform.
+
+The API is comprised of two services: the Administration service and the Provider service. The first extracts a list of models on your SAP Analytics Cloud system, and the second one retrieves information about a specific planning model. It has the following key characteristics:
+
+- Extracts fact data, master data and audit data.
+- Support of basic data extraction qualities with DELTA data extract (fact data) and basic filtering capabilities
+- Highly performant
+- Business & Technical User Access
+- Available for Cloud Foundry Tenants
+
+The Data Export Service enables a wide range of possible scenarios. It will mostly be used to simplify the downstream processing of plan data that was generated in SAP Analytics Cloud.
+
+The detailed technical set-up in combination with SAP Data Warehouse Cloud is described in this [blog post](https://blogs.sap.com/2022/06/21/introducing-the-bi-directional-integration-of-sap-data-warehouse-cloud-and-sap-analytics-cloud-for-planning/?preview_id=1561485). Other usage examples for the usage of DES can be found in this [blog post](https://blogs.sap.com/2022/05/30/leverage-the-sap-analytics-cloud-data-export-service-to-extract-your-planning-data-to-sap-hana-sap-business-warehouse-and-sap-s-4hana/). But, bear in mind that DES can also be used by other SAP and 3rd party applications!
+
