@@ -49,7 +49,7 @@ In this exercise, you will...
 ![Screenshot18](https://github.com/SAP-samples/teched2022-DA280/blob/main/exercises/ex6/images/Screenshot18.PNG)
 
 
-Your Smart Predict Scenario is created! Now you can review the results.
+Your Multi Action is created! Now you can review the results.
 
 
 
