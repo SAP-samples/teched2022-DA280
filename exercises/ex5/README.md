@@ -1,9 +1,8 @@
+# Exercise 5 - Create a Smart Predict Scenario 
 
-# Level 1 Heading
+In this exercise, you will create a Smart Predict Scenario with energy price as the influencer.
 
-In this exercise, you will...
-
-## Level 2 Heading
+## Creating a Smart Predict Scenario
 
 1. Click on the Predictive Scenario Icon on the left in the navigation panel.
 
@@ -44,5 +43,4 @@ Your Smart Predict Scenario is created! Now you can review the results.
 
 ## Summary
 
-Now that you have ... 
-Continue to - [Exercise 6 - Exercise 6 Description](../ex6/README.md)
+Now that you have created a smart predict scenario you can continue to - [Exercise 6 - Exercise 6 Description](../ex6/README.md)
