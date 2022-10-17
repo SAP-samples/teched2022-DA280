@@ -7,6 +7,9 @@ In this exercise, we will create...
 After completing these steps you will have created...
 
 1. Click here.
+
+![screenshot01](https://user-images.githubusercontent.com/112691476/196177480-bf012fcc-6033-414d-a58b-ad321af88a2e.png)
+
 <br>![](/exercises/ex1/images/01_01_0010.png)
 
 2.	Insert this line of code.
