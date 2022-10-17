@@ -9,7 +9,8 @@ After completing these steps you will have....
 
 1.	Click here.
 <br>![](/exercises/ex0/images/00_00_0010.png)
-![Screenshot1](/exercises/ex5/images/Screenshot1.png)
+
+![Screenshot1]([https://user-images.githubusercontent.com/112930664/196193352-e4b7b253-a99d-42ac-94da-a7298978820a.png)
 
 2.	Insert this code.
 ``` abap
