@@ -10,18 +10,20 @@ After completing these steps you will have created...
 
 ![screenshot01](https://user-images.githubusercontent.com/112691476/196177480-bf012fcc-6033-414d-a58b-ad321af88a2e.png)
 
-2. Next, we navigate to the public folder and copy the TechEd_2022_DA280_SampleContent to our MyFiles folder.
+2. Next, we navigate to the public folder, where we can find the TechEd sample content.
+This folder contains the Story and data model which we will use as the basis for the next excercises.
 
 ![](/exercises/4_Story_Building/images/screenshot02.png)
 
 
-3. Now we copy the TechEd sample content by selecting the folder and clicking on the "Copy To" Icon on the top right.
+3. Therefore we copy the TechEd sample content by selecting the folder and clicking on the "Copy To" Icon on the top right.
 
 ![](/exercises/4_Story_Building/images/screenshot03.png)
 
+4. In the pop-up box we change the destination to "My Files" by clicking on "My Files" on the top left and 
 
 
-
+![](/exercises/4_Story_Building/images/screenshot04.png)
 
 
 
