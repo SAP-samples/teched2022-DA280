@@ -16,6 +16,7 @@ After completing these steps you will have created...
 
 
 3. Now we copy the TechEd sample content by selecting the folder and clicking on the "Copy To" Icon on the top right.
+
 ![](/exercises/4_Story_Building/images/screenshot03.png)
 
 
