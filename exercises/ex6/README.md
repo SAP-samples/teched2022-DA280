@@ -57,4 +57,4 @@ Your Multi Action is created!
 ## Summary
 
 Now that you have ... 
-Continue to - [Exercise 6 - Exercise 6 Description](../ex6/README.md)
+Continue to - [Exercise 7 - Exercise 7 Description](../ex7/README.md)
