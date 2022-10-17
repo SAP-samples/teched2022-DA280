@@ -10,6 +10,8 @@ After completing these steps you will have created...
 
 ![screenshot01](https://user-images.githubusercontent.com/112691476/196177480-bf012fcc-6033-414d-a58b-ad321af88a2e.png)
 
+![](/exercises/4_Story_Building/images/screenshot02.png)
+
 <br>![](/exercises/ex1/images/01_01_0010.png)
 
 2.	Insert this line of code.
