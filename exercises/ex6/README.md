@@ -1,10 +1,8 @@
 
+# Exercise 6 - Create a Multi Action
+In this exercise, you will create a multi action with two steps.
 
-# Level 1 Heading
-
-In this exercise, you will...
-
-## Level 2 Heading
+## Create a Multi Action and add two steps to it
 
 1. Click on the Multi Actions icon on the left in the navigation panel.
 
@@ -56,5 +54,4 @@ Your Multi Action is created!
 
 ## Summary
 
-Now that you have ... 
-Continue to - [Exercise 7 - Exercise 7 Description](../ex7/README.md)
+Now that you have created a multi action you can continue to - [Exercise 7 - Exercise 7 Description](../ex7/README.md)
