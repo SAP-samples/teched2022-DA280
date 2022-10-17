@@ -9,7 +9,7 @@ After completing these steps you will have....
 
 1.	Click here.
 <br>![](/exercises/ex0/images/00_00_0010.png)
-![](/exercises/ex5/images/Screenshot1.png)
+![Screenshot1](/exercises/ex5/images/Screenshot1.png)
 
 2.	Insert this code.
 ``` abap
