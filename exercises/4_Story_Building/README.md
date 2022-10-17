@@ -6,7 +6,7 @@ In this exercise, we will create...
 
 After completing these steps you will have created...
 
-1. First, we open Files folder by clicking on "Files" on the left navigation panel.
+1. First, we open the Files folder by clicking on "Files" on the left navigation panel.
 
 ![screenshot01](https://user-images.githubusercontent.com/112691476/196177480-bf012fcc-6033-414d-a58b-ad321af88a2e.png)
 
