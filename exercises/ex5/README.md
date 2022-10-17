@@ -5,12 +5,17 @@ In this exercise, you will...
 
 ## Level 2 Heading
 
-After completing these steps you will have....
+1. Click on the Predictive Scenario Icon on the left in the navigation panel.
+
+![Screenshot1](https://github.com/SAP-samples/teched2022-DA280/blob/main/exercises/ex5/images/Screenshot1.PNG)
+
+2. Create a new Time Series Forecast
+
+![Screenshot2](https://github.com/SAP-samples/teched2022-DA280/blob/main/exercises/ex5/images/Screenshot2.PNG)
 
 1.	Click here.
 <br>![](/exercises/ex0/images/00_00_0010.png)
 
-![Screenshot1]([https://user-images.githubusercontent.com/112930664/196193352-e4b7b253-a99d-42ac-94da-a7298978820a.png)
 
 2.	Insert this code.
 ``` abap
