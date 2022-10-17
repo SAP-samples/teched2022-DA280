@@ -7,7 +7,7 @@ In this exercise, you will create a Data Action to clean up the version data bef
 After completing these steps you will have created a Data Action with an advanced formular step to clean up the version data. After that, you can run the predictive scenario for the energy costs.
 
 1.	Click here.
-![Deletion_2](https://user-images.githubusercontent.com/112930664/196191905-485f982f-c153-4e7b-88a8-ef59c7734d4c.png)
+![Deletion_2_new](https://user-images.githubusercontent.com/112930664/196192889-0e7c121b-afda-4c21-a38d-649df4a198b0.png)
 
 ![Deletion_4](https://user-images.githubusercontent.com/112930664/196191988-949a31e3-69e7-4948-bc25-62ba93ebff2f.png)
 
