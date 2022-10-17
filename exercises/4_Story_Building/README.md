@@ -31,6 +31,36 @@ This folder contains the Story and data model which we will use as the basis for
 
 ![](/exercises/4_Story_Building/images/screenshot06.png)
 
+7. By clicking on "import data" we can choose whether to import data from a flat file, e.g. a csv or choose an existing connection to a data source to import data from. In our case, we already have a connection to DWC so we select "Data source".
+
+![](/exercises/4_Story_Building/images/screenshot07.png)
+
+
+8. In the pop-up window we choose OData Services.
+
+![](/exercises/4_Story_Building/images/screenshot08.png)
+
+9. Next, we are prompted to select a connection from the dropdown list. We choose "DWC_TechEd_DA280_Union as shown in the screenshot and click on "Next".
+
+![](/exercises/4_Story_Building/images/screenshot09.png)
+
+10. Now we create a new query for the OData Service and set the name to "V_Union_Actuals_and_Influencer" and select the corresponding table. Proceed with "Next".
+
+![](/exercises/4_Story_Building/images/screenshot10.png)
+
+
+11. In this view we can see the dimensions and measures the table consists of. We could select individual dimensions and measures in the query however in this case, we want to include the whole table. Using drag and drop we can simply drag the table to the "Selected Data" area and drop it there. Now all 10 dimensions and measures are included in the result set. To confirm we press "Create". The system now sets up the import job in the background and lets us know as soon as it is created.
+
+![](/exercises/4_Story_Building/images/screenshot11.png)
+
+
+12.
+
+
+![](/exercises/4_Story_Building/images/screenshot12.png)
+
+
+
 
 
 
