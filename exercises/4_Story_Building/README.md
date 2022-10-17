@@ -77,6 +77,8 @@ This folder contains the Story and data model which we will use as the basis for
 ![](/exercises/4_Story_Building/images/screenshot16.png)
 
 17. The data is now being imported into SAC. Once the process is finished, the status bar on the right shows information about duration time and rows which have been imported. 
+Congratulations, you successfully imported the data from DWC to SAC!
+Now let's have a look how we can build a table on top of that to carry out our Liqudity Planning.
 
 
 
