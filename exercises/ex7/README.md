@@ -1,13 +1,14 @@
-# Level 1 Heading
+# Exercise 7 Delete version data before running the prediction
 
 In this exercise, you will create a Data Action to clean up the version data before running the prediction.
 
-## Level 2 Heading
+## Implementing a deletion step using Data Actions
 
 After completing these steps you will have created a Data Action with an advanced formular step to clean up the version data. After that, you can run the predictive scenario for the energy costs.
 
 1.	Click here.
 ![s1](https://user-images.githubusercontent.com/112930664/196193352-e4b7b253-a99d-42ac-94da-a7298978820a.png)
+
 
 ![Deletion_4](https://user-images.githubusercontent.com/112930664/196191988-949a31e3-69e7-4948-bc25-62ba93ebff2f.png)
 
