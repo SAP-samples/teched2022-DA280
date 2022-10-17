@@ -19,21 +19,18 @@ This folder contains the Story and data model which we will use as the basis for
 3. Therefore we copy the TechEd sample content by selecting the folder and clicking on the "Copy To" Icon on the top right.
 
 ![](/exercises/4_Story_Building/images/screenshot03.png)
-
-4. In the pop-up box we change the destination to "My Files" by clicking on "My Files" on the top left and 
-
+ 
+4. In the pop-up box we change the file name to TechEd2022_DA280_[yourlastname] and save the copy to My Files / Public
 
 ![](/exercises/4_Story_Building/images/screenshot04.png)
 
+5. Now let's load the data from Data Warehouse Cloud into our SAP Analytics Cloud Model and build a table on top of it. We nagivate into our copied sample content folder and open the Model.
 
 
+6. We switch to the Data Management View of the model where we can create the Import Job.
 
+![](/exercises/4_Story_Building/images/screenshot06.png)
 
-
-2.	Insert this line of code.
-```abap
-response->set_text( |Hello World! | ). 
-```
 
 
 
