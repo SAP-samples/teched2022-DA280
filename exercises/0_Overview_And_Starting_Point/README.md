@@ -108,6 +108,8 @@ We created one story with two pages to be copied and edited as part of our works
 <br>![](/exercises/0_Overview_And_Starting_Point/images/0.6_Story_Tables.png)
 
 ## 0.7 - What else will you learn?
+Throughout the session, you will be guided on the following product components as well.
+
 In SAP Analytics Cloud:
 - [Multi Actions](https://help.sap.com/docs/SAP_ANALYTICS_CLOUD/00f68c2e08b941f081002fd3691d86a7/b1a98c566bc64ce78871ee3c0b559d6f.html?q=Multi%20Action#loiob1a98c566bc64ce78871ee3c0b559d6f)
 - [Data Actions](https://help.sap.com/docs/SAP_ANALYTICS_CLOUD/00f68c2e08b941f081002fd3691d86a7/2850221adef14958a4554ad2860ff412.html?)
