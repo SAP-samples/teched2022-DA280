@@ -1,10 +1,10 @@
 # Level 1 Heading
 
-In this exercise, you will...
+In this exercise, you will create a Data Action to clean up the version data before running the prediction.
 
 ## Level 2 Heading
 
-After completing these steps you will have....
+After completing these steps you will have created a Data Action with an advanced formular step to clean up the version data. After that, you can run the predictive scenario for the energy costs.
 
 1.	Click here.
 <br>![](/exercises/ex0/images/00_00_0010.png)
