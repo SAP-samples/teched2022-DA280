@@ -1,4 +1,4 @@
-# Exercise 7 Delete version data before running the prediction
+# Exercise 7 - Delete version data before running the prediction
 
 In this exercise, you will create a Data Action to clean up the version data before running the prediction.
 
