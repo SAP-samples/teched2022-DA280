@@ -6,13 +6,26 @@ In this exercise, we will create...
 
 After completing these steps you will have created...
 
-1. Click here.
+1. First, we open Files folder by clicking on "Files" on the left navigation panel.
 
 ![screenshot01](https://user-images.githubusercontent.com/112691476/196177480-bf012fcc-6033-414d-a58b-ad321af88a2e.png)
 
+2. Next, we navigate to the public folder and copy the TechEd_2022_DA280_SampleContent to our MyFiles folder.
+
 ![](/exercises/4_Story_Building/images/screenshot02.png)
 
-<br>![](/exercises/ex1/images/01_01_0010.png)
+
+3. Now we copy the TechEd sample content by selecting the folder and clicking on the "Copy To" Icon on the top right.
+![](/exercises/4_Story_Building/images/screenshot03.png)
+
+
+
+
+
+
+
+
+
 
 2.	Insert this line of code.
 ```abap
