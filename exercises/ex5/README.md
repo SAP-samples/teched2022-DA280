@@ -31,15 +31,13 @@ In this exercise, you will...
 
 7. Turn on the toggle to convert negative forecast values to zero and choose "Amount" and "Energy Price / GWh" in the dropdowns "Include As Influencer" and click on the confimation Icon.
 
-Afterwards click on "Train & Forecast.
+8. Afterwards click on "Train & Forecast.
 
 ![Screenshot7](https://github.com/SAP-samples/teched2022-DA280/blob/main/exercises/ex5/images/Screenshot7.PNG)
 
 Your Smart Predict Scenario is created! Now you can review the results.
 
 
-1.	Click here.
-<br>![](/exercises/ex0/images/00_00_0010.png)
 
 
 2.	Insert this code.
