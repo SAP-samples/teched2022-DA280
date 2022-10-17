@@ -34,6 +34,10 @@ In this exercise, you will create a Smart Predict Scenario with energy price as 
 
 ![Screenshot7](https://github.com/SAP-samples/teched2022-DA280/blob/main/exercises/ex5/images/Screenshot7.PNG)
 
+8. Click on the "Save" icon to save your Smart Predict Scenario
+
+![Screenshot18](https://github.com/SAP-samples/teched2022-DA280/blob/main/exercises/ex5/images/Screenshot18.PNG)
+
 Your Smart Predict Scenario is created! Now you can review the results.
 
 
