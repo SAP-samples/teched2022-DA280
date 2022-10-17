@@ -54,10 +54,47 @@ This folder contains the Story and data model which we will use as the basis for
 ![](/exercises/4_Story_Building/images/screenshot11.png)
 
 
-12.
+12. Once the import job is created we can set up the import.
 
 
 ![](/exercises/4_Story_Building/images/screenshot12.png)
+
+13. Data Wrangler is shown.
+
+![](/exercises/4_Story_Building/images/screenshot13.png)
+
+14. In the next step, the mapping between source and target columns is defined. The system already did most of the mapping for us, so we only have to map the "TIMEMONTH" column to the "Time" column. This can be done by dragging the TIMEMONTH column onto the blank source space of the Time column. Once this is done, we click on "Next".
+
+![](/exercises/4_Story_Building/images/screenshot14.png)
+
+15. In this view, we can add descriptions by mapping the description members of our source column to respective target column. The mapping is shown in the screenshot below. Once this is done, we click on Next. The system now validates the mappings and if no errors are found we can proceed to run the import.
+
+![](/exercises/4_Story_Building/images/screenshot15.png)
+
+
+16. We click on "Run Import" and choose "Finish". 
+
+![](/exercises/4_Story_Building/images/screenshot16.png)
+
+17. The data is now being imported into SAC. Once the process is finished, the status bar on the right shows information about duration time and rows which have been imported. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
