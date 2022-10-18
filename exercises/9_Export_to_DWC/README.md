@@ -14,3 +14,4 @@ Take note of the OAuth client ID and secret.
 <br>![](/exercises/9_Export_to_DWC/images/8_3.png)
 
 In SAP Data Warehouse Cloud, 
+<br>![](/exercises/9_Export_to_DWC/images/8_4.png)
