@@ -7,21 +7,22 @@ In this exercise, we first look for external data on energy prices in the Data M
 After completing these steps you will have created an Analytical Dataset in SAP Data Warehouse Cloud, which combines external data from Data Marketplace with internal actuals. 
 
 1. First, let us navigate to the Data Marketplace. As the name suggests, it is like a marketplace for data consumers and data providers, and allows the easy integration of external data. If this is news to you, feel free to explore the various data products that are available. 
-
-<br>![](/exercises/ex1/images/01 - Data Marketplace Overview.png)
+<br>![](/exercises/ex1/images/01-DM.png)
 
 2. Let us now search for a data product that contains the historic evolution of the energy price, as well as a forecast into the future. Thus, type in "2022_TechEd_DA280" into the search field. We will find exactly one data product that matches our search. 
-
-<br>![](/exercises/ex1/images/02 - Search Result Energy Price Data Product.png)
+<br>![](/exercises/ex1/images/02-Search.png)
 
 3. Select the data product and read through its description. Notice that it has various categories assigned (which improve its visibility in the search)  and is accessible for free.
+<br>![](/exercises/ex1/images/03-Description.png)
 
-<br>![](/exercises/ex1/images/03 - Data Product Description.png)
+4. Load the data product into your DWC space. To do so, select the top-right button "Load for Free", select the respective space in the pop-up and load the data product.
+<br>![](/exercises/ex1/images/04-Load.png)
 
-4. Load the data product into your DWC space. To do so, select the top-right button "Load for Free" and select the respective space in the pop-up.
+5. It will now take a moment until the external data is accessible in our space. Luckily, DWC notifies us when the table replication is completed successfully. Once done, let us navigate to the Data Builder and select the newly created remote table with business name "
+V_Energy_Prices_TechEd_Demo". It should look like the following: 
+<br>![](/exercises/ex1/images/05-Preview.png)
 
-<br>![](/exercises/ex1/images/04 - Load Data Product.png)
-
+7. Finally, let us now have a look into the external data we acquired. We therefore navigate to the Data Builder
 
 
 ## Exercise 1.2 Connect SAC to DWC
