@@ -18,9 +18,7 @@ After completing these steps you will have acquired energy external data from Da
 4. Load the data product into your DWC space. To do so, select the top-right button "Load for Free", select the respective space in the pop-up and load the data product.
 <br>![](/exercises/ex1/images/04-Load.png)
 
-5. It will now take a moment until the external data is accessible in our space. Luckily, DWC notifies us when the table replication is completed successfully. Once done, let us navigate to the Data Builder and select the newly created remote table with business name "V_Energy_Prices_TechEd_Demo". 
-
-If it looks like the following, you successfully completed our first exercise (yeay!). 
+5. It will now take a moment until the external data is accessible in our space. Luckily, DWC notifies us when the table replication is completed successfully. Once done, let us navigate to the Data Builder and select the newly created remote table with business name "V_Energy_Prices_TechEd_Demo". If it looks like the following, you successfully completed our first exercise (yeay!). 
 <br>![](/exercises/ex1/images/05-Preview.png)
 
 
@@ -39,11 +37,11 @@ The result should look like the following:
 
 2. Finally, let us navigate to the output node and define the view properties. Let us adapt the following: 
 
-- Business_Name: "V Union Actuals and Influencer"
-- Semantic Usage: "Analytical Dataset"
-- Expose for Consumption: Enabled
-- Measures: "Amount"
-- Attribues: All remaining columns 
+  - Business_Name: "V Union Actuals and Influencer"
+  - Semantic Usage: "Analytical Dataset"
+  - Expose for Consumption: Enabled
+  - Measures: "Amount"
+  - Attribues: All remaining columns 
 
 Note: The OData API for SAP Data Warehouse Cloud only provides access to DWC artefacts which are exposed for consumption. This is why it is important to enable this field. 
 
