@@ -1,4 +1,4 @@
-# Exercise 1 - Exercise 1 Description
+# Exercise 3 - Importing Data from DWC
 
 In this exercise, we will create...
 
