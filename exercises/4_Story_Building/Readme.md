@@ -31,9 +31,14 @@ This can be done by clicking on "Add Dimensions" and then we choose "Transaction
 
 ![](/exercises/4_Story_Building/images/screenshot03.png)
 
-4. Next, we add the Time dimension to the columns of the table and for "Measures" we select "Amount".
+4. Next, we add the Time dimension to the columns of the table
+
+5. For Measures we change the Filter:
 
 ![](/exercises/4_Story_Building/images/screenshot04.png)
+
+select "Cash Closing", "Cash Opening" and "Cash Flows related to operating activities".
+
 ![](/exercises/4_Story_Building/images/screenshot05.png)
 
 
