@@ -37,9 +37,25 @@ This can be done by clicking on "Add Dimensions" and then we choose "Transaction
 
 ![](/exercises/4_Story_Building/images/screenshot04.png)
 
-select "Cash Closing", "Cash Opening" and "Cash Flows related to operating activities".
+select "Cash Closing", "Cash Opening" and "Cash Flows related to operating activities" and press "OK".
 
 ![](/exercises/4_Story_Building/images/screenshot05.png)
+
+6. For better readability, we want the Transaction Currency column to be displayed as the first row of the table. 
+This can be changed by drag and drop in the Builder panel.
+
+![](/exercises/4_Story_Building/images/screenshot06.png)
+
+7. We also set a filter the time dimension to the years 2020, 2021 and 2022 and expand the years 2020 and 2021. Let's also drill down on the liquidity items to have a more detailed view on the data. 
+
+![](/exercises/4_Story_Building/images/screenshot07.png)
+
+
+
+
+
+
+
 
 
 
