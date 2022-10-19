@@ -8,23 +8,19 @@ After completing these steps you will have created an Analytical Dataset in SAP 
 
 1. First, let us navigate to the Data Marketplace. As the name suggests, it is like a marketplace for data consumers and data providers, and allows the easy integration of external data. If this is news to you, feel free to explore the various data products that are available. 
 
-<br>![](/exercises/ex1/images/01_01_0010.png)
+<br>![](/exercises/ex1/images/01 - Data Marketplace Overview.png)
 
 2. Let us now search for a data product that contains the historic evolution of the energy price, as well as a forecast into the future. Thus, type in "2022_TechEd_DA280" into the search field. We will find exactly one data product that matches our search. 
 
-<br>![](/exercises/ex1/images/01_01_0010.png)
+<br>![](/exercises/ex1/images/02 - Search Result Energy Price Data Product.png)
 
-3. Select the data product and read through its description. 
+3. Select the data product and read through its description. Notice that it has various categories assigned (which improve its visibility in the search)  and is accessible for free.
 
-<br>![](/exercises/ex1/images/01_01_0010.png)
+<br>![](/exercises/ex1/images/03 - Data Product Description.png)
 
-4. Select the data product and read through its description. Notice that it has various categories assigned (which improve its visibility in the search)  and is accessible for free.
+4. Load the data product into your DWC space. To do so, select the top-right button "Load for Free" and select the respective space in the pop-up.
 
-<br>![](/exercises/ex1/images/01_01_0010.png)
-
-5. Load the data product into your DWC space. To do so, select the top-right button "Load for Free" and select the respective space in the pop-up.
-
-<br>![](/exercises/ex1/images/01_01_0010.png)
+<br>![](/exercises/ex1/images/04 - Load Data Product.png)
 
 
 
