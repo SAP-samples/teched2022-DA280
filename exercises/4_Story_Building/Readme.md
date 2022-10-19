@@ -13,7 +13,7 @@ Let's swtich to the second page to create the table.
 
 
 
-## Exercise 1.1 Sub Exercise 1 Description
+## Exercise 4.1 Create the first table
 
 After completing these steps you will have created...
 
@@ -46,128 +46,34 @@ This can be changed by drag and drop in the Builder panel.
 
 ![](/exercises/4_Story_Building/images/screenshot06.png)
 
-7. We also set a filter the time dimension to the years 2020, 2021 and 2022 and expand the years 2020 and 2021. Let's also drill down on the liquidity items to have a more detailed view on the data. 
+7. We also filter the time dimension to 2020, 2021 and 2022 and expand the years 2020 and 2021. Let's also drill down on the liquidity items to have a more detailed view on the data. 
 
 ![](/exercises/4_Story_Building/images/screenshot07.png)
 
-
-
-
-
-
-
-
-
-
-
-3. Therefore we copy the TechEd sample content by selecting the folder and clicking on the "Copy To" Icon on the top right.
-
-![](/exercises/4_Story_Building/images/screenshot03.png)
- 
-4. In the pop-up box we change the file name to TechEd2022_DA280_[yourlastname] and save the copy to My Files / Public
-
-![](/exercises/4_Story_Building/images/screenshot04.png)
-
-5. Now let's load the data from Data Warehouse Cloud into our SAP Analytics Cloud Model and build a table on top of it. We nagivate into our copied sample content folder and open the Model.
-
-
-6. We switch to the Data Management View of the model where we can create the Import Job.
-
-![](/exercises/4_Story_Building/images/screenshot06.png)
-
-7. By clicking on "import data" we can choose whether to import data from a flat file, e.g. a csv or choose an existing connection to a data source to import data from. In our case, we already have a connection to DWC so we select "Data source".
-
-![](/exercises/4_Story_Building/images/screenshot07.png)
-
-
-8. In the pop-up window we choose OData Services.
+8. For better contrast in the story, we can change the background color of the table to white in the Styling panel.
 
 ![](/exercises/4_Story_Building/images/screenshot08.png)
 
-9. Next, we are prompted to select a connection from the dropdown list. We choose "DWC_TechEd_DA280_Union as shown in the screenshot and click on "Next".
+
+## Exercise 4.2 Create the second table
+
+Now that we have created our table with liquidity items, we also want to get insights into our influencer data. For that, we create another table below.
+
+1. The rows of this table consist of "Transaction Currency", "Liquidity Item", "Company Code". "Liquidity Item" is filtered on "Influencers".
+2. The columns consist of the measure "Amount", "Version" and "Time". 
+3. We set the Time Hierarchy to "Year, Month" and filter Time to "2021" and "2022". 
 
 ![](/exercises/4_Story_Building/images/screenshot09.png)
 
-10. Now we create a new query for the OData Service and set the name to "V_Union_Actuals_and_Influencer" and select the corresponding table. Proceed with "Next".
+4. To directly see the exact liquidity item node, we can change the hierarchy on "Liquidity Item". We right click on the respective column, choose "Select Hierarchy" and click on "Show only leaves in widget". 
 
 ![](/exercises/4_Story_Building/images/screenshot10.png)
-
-
-11. In this view we can see the dimensions and measures the table consists of. We could select individual dimensions and measures in the query however in this case, we want to include the whole table. Using drag and drop we can simply drag the table to the "Selected Data" area and drop it there. Now all 10 dimensions and measures are included in the result set. To confirm we press "Create". The system now sets up the import job in the background and lets us know as soon as it is created.
-
 ![](/exercises/4_Story_Building/images/screenshot11.png)
 
-
-12. Once the import job is created we can set up the import.
-
+This way, we can directly see the liquidity item, without having to drill down the hierarchy. 
 
 ![](/exercises/4_Story_Building/images/screenshot12.png)
 
-13. Data Wrangler is shown.
-
-![](/exercises/4_Story_Building/images/screenshot13.png)
-
-14. In the next step, the mapping between source and target columns is defined. The system already did most of the mapping for us, so we only have to map the "TIMEMONTH" column to the "Time" column. This can be done by dragging the TIMEMONTH column onto the blank source space of the Time column. Once this is done, we click on "Next".
-
-![](/exercises/4_Story_Building/images/screenshot14.png)
-
-15. In this view, we can add descriptions by mapping the description members of our source column to respective target column. The mapping is shown in the screenshot below. Once this is done, we click on Next. The system now validates the mappings and if no errors are found we can proceed to run the import.
-
-![](/exercises/4_Story_Building/images/screenshot15.png)
-
-
-16. We click on "Run Import" and choose "Finish". 
-
-![](/exercises/4_Story_Building/images/screenshot16.png)
-
-17. The data is now being imported into SAC. Once the process is finished, the status bar on the right shows information about the date and duration time of the import process and number of rows which have been imported. 
-
-![](/exercises/4_Story_Building/images/screenshot17.png)
-
-Thereby, you successfully imported data from DWC to SAC, congratulations!
-Now let's have a look how we can build a table on top of that to carry out our Liqudity Planning.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Exercise 1.2 Sub Exercise 2 Description
-
-After completing these steps you will have...
-
-1.	Enter this code.
-```abap
-DATA(lt_params) = request->get_form_fields(  ).
-READ TABLE lt_params REFERENCE INTO DATA(lr_params) WITH KEY name = 'cmd'.
-  IF sy-subrc <> 0.
-    response->set_status( i_code = 400
-                     i_reason = 'Bad request').
-    RETURN.
-  ENDIF.
-
-```
-
-2.	Click here.
-<br>![](/exercises/ex1/images/01_02_0010.png)
 
 
 ## Summary
