@@ -1,5 +1,4 @@
-# Exercise 3 - Importing Data from DWC
-
+# Exercise 3 - Copy planning model and load data
 In this exercise, we will create...
 
 ## Exercise 1.1 Sub Exercise 1 Description
