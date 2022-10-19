@@ -21,7 +21,7 @@ After completing these steps you will have created...
 
 ![](/exercises/4_Story_Building/images/screenshot01.png)
 
-2. We move the table to the left side of the story and rezize its size as shown in the screenshot.
+2. We move the table to the left side of the story and resize its size as shown in the screenshot.
 
 ![](/exercises/4_Story_Building/images/screenshot02.png)
 
