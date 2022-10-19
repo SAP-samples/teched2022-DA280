@@ -18,7 +18,9 @@ After completing these steps you will have acquired energy external data from Da
 4. Load the data product into your DWC space. To do so, select the top-right button "Load for Free", select the respective space in the pop-up and load the data product.
 <br>![](/exercises/ex1/images/04-Load.png)
 
-5. It will now take a moment until the external data is accessible in our space. Luckily, DWC notifies us when the table replication is completed successfully. Once done, let us navigate to the Data Builder and select the newly created remote table with business name "V_Energy_Prices_TechEd_Demo". If it looks like the following, you successfully completed our first exercise (yeay!). 
+5. It will now take a moment until the external data is accessible in our space. Luckily, DWC notifies us when the table replication is completed successfully. Once done, let us navigate to the Data Builder and select the newly created remote table with business name "V_Energy_Prices_TechEd_Demo". 
+
+If it looks like the following, you successfully completed our first exercise (yeay!). 
 <br>![](/exercises/ex1/images/05-Preview.png)
 
 
@@ -33,7 +35,7 @@ First, drag and drop the "T_S4_ACT" table into the canvas. Afterwards, select th
 Note that DWC is intelligent and already mapped all columns from the first table to those columns from the second table with the same business name. Only for the "version" column, you will need to manually map both sides. 
 
 The result should look like the following: 
-<br>![](/exercises/ex1/images/06-Join.png)
+<br>![](/exercises/ex1/images/06-Union.png)
 
 2. Finally, let us navigate to the output node and define the view properties. Let us adapt the following: 
 
