@@ -6,13 +6,25 @@ In this exercise, we first look for external data on energy prices in the Data M
 
 After completing these steps you will have created an Analytical Dataset in SAP Data Warehouse Cloud, which combines external data from Data Marketplace with internal actuals. 
 
-1. 
+1. First, let us navigate to the Data Marketplace. As the name suggests, it is like a marketplace for data consumers and data providers, and allows the easy integration of external data. If this is news to you, feel free to explore the various data products that are available. 
+
 <br>![](/exercises/ex1/images/01_01_0010.png)
 
-2.	Insert this line of code.
-```abap
-response->set_text( |Hello World! | ). 
-```
+2. Let us now search for a data product that contains the historic evolution of the energy price, as well as a forecast into the future. Thus, type in "2022_TechEd_DA280" into the search field. We will find exactly one data product that matches our search. 
+
+<br>![](/exercises/ex1/images/01_01_0010.png)
+
+3. Select the data product and read through its description. 
+
+<br>![](/exercises/ex1/images/01_01_0010.png)
+
+4. Select the data product and read through its description. Notice that it has various categories assigned (which improve its visibility in the search)  and is accessible for free.
+
+<br>![](/exercises/ex1/images/01_01_0010.png)
+
+5. Load the data product into your DWC space. To do so, select the top-right button "Load for Free" and select the respective space in the pop-up.
+
+<br>![](/exercises/ex1/images/01_01_0010.png)
 
 
 
@@ -20,20 +32,6 @@ response->set_text( |Hello World! | ).
 
 After completing these steps you will have...
 
-1.	Enter this code.
-```abap
-DATA(lt_params) = request->get_form_fields(  ).
-READ TABLE lt_params REFERENCE INTO DATA(lr_params) WITH KEY name = 'cmd'.
-  IF sy-subrc <> 0.
-    response->set_status( i_code = 400
-                     i_reason = 'Bad request').
-    RETURN.
-  ENDIF.
-
-```
-
-2.	Click here.
-<br>![](/exercises/ex1/images/01_02_0010.png)
 
 
 ## Summary
