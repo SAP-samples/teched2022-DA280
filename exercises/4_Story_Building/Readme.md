@@ -61,7 +61,7 @@ Now that we have created our table with liquidity items, we also want to get ins
 
 1. The rows of this table consist of "Transaction Currency", "Liquidity Item", "Company Code". "Liquidity Item" is filtered on "Influencers".
 2. The columns consist of the measure "Amount", "Version" and "Time". 
-3. We set the Time Hierarchy to "Year, Month" and filter Time to "2021" and "2022". 
+3. We set the Time Hierarchy to "Year, Month", filter Time to "2021" and "2022" and set the background color to white again.
 
 ![](/exercises/4_Story_Building/images/screenshot09.png)
 
@@ -70,7 +70,7 @@ Now that we have created our table with liquidity items, we also want to get ins
 ![](/exercises/4_Story_Building/images/screenshot10.png)
 ![](/exercises/4_Story_Building/images/screenshot11.png)
 
-This way, we can directly see the liquidity item, without having to drill down the hierarchy. 
+This way, we can directly see the liquidity item, without having to drill down the hierarchy.
 
 ![](/exercises/4_Story_Building/images/screenshot12.png)
 
@@ -78,7 +78,6 @@ This way, we can directly see the liquidity item, without having to drill down t
 
 ## Summary
 
-You've now ...
-
-Continue to - [Exercise 2 - Exercise 2 Description](../ex2/README.md)
+We have now created two tables in the story based on the imported data!
+We can now continue to - [Exercise 5 - Create a Smart Predict Scenario](../ex5/README.md).
 
