@@ -4,18 +4,10 @@
 Now that we have imported the data from DWC to our SAC planning model, we can start building a table on top.
 For that, we go to Files, navigate to our TechEd folder and open the SAP__FI_CLM_LIQUIDITY_PLANNING Story.
 
-On the first page, ...
-
-Let's swtich to the second page to create the table.
-
-
-
-
-
+On the first page, we can see the financial data visualized with different charts and key figures.
+On the second page there are already two data action triggers as a blueprint which we will use later. 
 
 ## Exercise 4.1 Create the first table
-
-After completing these steps you will have created...
 
 1. To add a table to the story, we click on "Table" in the "Insert" toolbar.
 
