@@ -84,5 +84,5 @@ Thereby, you successfully imported data from DWC to SAC, congratulations!
 ## Summary
 
 Now let's have a look how we can build a table on top of that to carry out our Liqudity Planning.
-Continue to - [Exercise 4 - Exercise 4 -Story_Building](../4_Story_Building/README.md)
+Continue to - [Exercise 4 - Story_Building](../4_Story_Building/README.md)
 
