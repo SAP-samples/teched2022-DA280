@@ -1,4 +1,7 @@
-# Exercise 1 - Acquiring Data from SAP Data Warehouse Cloud
+# Exercise 1 - Combining External and Internal Data in SAP Data Warehouse Cloud
+
+
+## Exercise 1.1 Acquiring Data from SAP Data Warehouse Cloud
 
 In this exercise, we first look for external data on energy prices in the Data Marketplace of SAP Data Warehouse Cloud. We will then combine this data with our internal cash flow statement actuals and create a consumable view. 
 
@@ -20,7 +23,7 @@ If it looks like the following, you successfully completed our first exercise (y
 <br>![](/exercises/1_DataMarketplace/images/05-Preview.png)
 
 
-## Exercise 1.2 Combining external and internal data
+## Exercise 1.2 Combining data and creating a consumpable view
 
 After completing these steps you will have created an Analytical Dataset in SAP Data Warehouse Cloud, which combines external data from Data Marketplace with internal actuals. 
 
@@ -47,7 +50,5 @@ Note: The OData API for SAP Data Warehouse Cloud only provides access to DWC art
 
 3. One last action: Let us deploy the Analytical Dataset. 
 
-You've now successfully 
-
-Continue to - [Exercise 2 - Connect to DWC](../2_Connect_to_DWC/README.md)
+You have now successfully created a conumsable view in SAP Data Warehouse Cloud. Let us now navigate to SAP Analytics Cloud and continue with - [Exercise 2 - Connect to DWC](../2_Connect_to_DWC/README.md)
 
