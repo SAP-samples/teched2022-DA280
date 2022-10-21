@@ -35,7 +35,7 @@ Provide the exercise content here directly in README.md using [markdown](https:/
 
 - [Exercise 0 Overview and Starting Point](exercises/0_Overview_And_Starting_Point/)
 - [Exercise 1 - Acquiring Data from SAP Data Warehouse Cloud](exercises/1_DataMarketplace/README.md/)
-- [Exercise 2 - Connect_to_DWC](exercises/2_Connect_to_DWC/Readme.md/)
+- [Exercise 2 - Connect to DWC](exercises/2_Connect_to_DWC/Readme.md/)
 
 
   
