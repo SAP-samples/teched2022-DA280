@@ -22,5 +22,5 @@ For the multi action, select the SAP__FI_CLM_PLF_RUN_PRED_LIQ_FC_FOR_PRIVATE_VER
 ![ex8_7](https://user-images.githubusercontent.com/112930664/197132151-98ed35c9-e6c3-4f99-94ad-4f07047f12b7.png)
 ## Summary
 
-Now that you have ... 
-Continue to - [Exercise 1 - Exercise 1 Description](../ex1/README.md)
+Now that you have built in the prior created Action triggers, you have learnt how to include these into a story in SAC.
+Continue to - Exercise 9
