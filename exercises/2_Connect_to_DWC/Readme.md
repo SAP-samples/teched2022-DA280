@@ -7,3 +7,6 @@ In this exercise, we first look for external data on energy prices in the Data M
 
 2. Let us now search for a data product that contains the historic evolution of the energy price, as well as a forecast into the future. Thus, type in "2022_TechEd_DA280" into the search field. We will find exactly one data product that matches our search. 
 <br>![](/exercises/ex1/images/02-Search.png)
+
+
+https://academy-test-dwc.eu10.hcs.cloud.sap/api/v1/dwc/consumption/relational/TECHED_DEMO/V_Union_Actuals_and_Influencer
