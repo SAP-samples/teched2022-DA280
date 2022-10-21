@@ -18,6 +18,6 @@ In this short exercise, we will create a connection from SAP Analytics Cloud to 
 
 An example for the Data Service URL would be: https://academy-test-dwc.eu10.hcs.cloud.sap/api/v1/dwc/consumption/relational/TECHED_DEMO/V_Union_Actuals_and_Influencer  
 
-<br>![](/exercises/2_Connect_to_DWC/images/03_Configuration)
+<br>![](/exercises/2_Connect_to_DWC/images/03_Configuration.png)
 
 Finally, click on OK and you should receive a positive confirmation.
