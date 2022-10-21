@@ -47,7 +47,7 @@ Note: The OData API for SAP Data Warehouse Cloud only provides access to DWC art
 
 3. One last action: Let us deploy the Analytical Dataset. 
 
-You've now ...
+You've now successfully 
 
-Continue to - [Exercise 2 - Exercise 2 Description](../ex2/README.md)
+Continue to - [Exercise 2 - Connect to DWC](../2_Connect_to_DWC/README.md)
 
