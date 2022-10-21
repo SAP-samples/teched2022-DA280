@@ -3,21 +3,21 @@
 In this exercise, we first look for external data on energy prices in the Data Marketplace of SAP Data Warehouse Cloud. We will then combine this data with our internal cash flow statement actuals and create a consumable view. 
 
 1. First, let us navigate to the Data Marketplace. As the name suggests, it is like a marketplace for data consumers and data providers, and allows the easy integration of external data. If this is news to you, feel free to explore the various data products that are available. 
-<br>![](/exercises/ex1/images/01-DM.png)
+<br>![](/exercises/1_DataMarketplace/images/01-DM.png)
 
 2. Let us now search for a data product that contains the historic evolution of the energy price, as well as a forecast into the future. Thus, type in "2022_TechEd_DA280" into the search field. We will find exactly one data product that matches our search. 
-<br>![](/exercises/ex1/images/02-Search.png)
+<br>![](/exercises/1_DataMarketplace/images/02-Search.png)
 
 3. Select the data product and read through its description. Notice that it has various categories assigned (which improve its visibility in the search)  and is accessible for free.
-<br>![](/exercises/ex1/images/03-Description.png)
+<br>![](/exercises/1_DataMarketplace/images/03-Description.png)
 
 4. Load the data product into your DWC space. To do so, select the top-right button "Load for Free", select the respective space in the pop-up and load the data product.
-<br>![](/exercises/ex1/images/04-Load.png)
+<br>![](/exercises/1_DataMarketplace/images/04-Load.png)
 
 5. It will now take a moment until the external data is accessible in our space. Luckily, DWC notifies us when the table replication is completed successfully. Once done, let us navigate to the Data Builder and select the newly created remote table with business name "V_Energy_Prices_TechEd_Demo". 
 
 If it looks like the following, you successfully completed our first exercise (yeay!). 
-<br>![](/exercises/ex1/images/05-Preview.png)
+<br>![](/exercises/1_DataMarketplace/images/05-Preview.png)
 
 
 ## Exercise 1.2 Combining external and internal data
@@ -31,7 +31,7 @@ First, drag and drop the "T_S4_ACT" table into the canvas. Afterwards, select th
 Note that DWC is intelligent and already mapped all columns from the first table to those columns from the second table with the same business name. Only for the "version" column, you will need to manually map both sides. 
 
 The result should look like the following: 
-<br>![](/exercises/ex1/images/06-Union.png)
+<br>![](/exercises/1_DataMarketplace/images/06-Union.png)
 
 2. Finally, let us navigate to the output node and define the view properties. Let us adapt the following: 
 
@@ -43,7 +43,7 @@ The result should look like the following:
 
 Note: The OData API for SAP Data Warehouse Cloud only provides access to DWC artefacts which are exposed for consumption. This is why it is important to enable this field. 
 
-<br>![](/exercises/ex1/images/07-ADS.png)
+<br>![](/exercises/1_DataMarketplace/images/07-ADS.png)
 
 3. One last action: Let us deploy the Analytical Dataset. 
 
