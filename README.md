@@ -31,21 +31,18 @@ The hands-on exercises begin with Exercise 1.
 
 ## Exercises
 
-Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
+Here you find direct jumps to the distinct exercises:
 
 - [Exercise 0 Overview and Starting Point](exercises/0_Overview_And_Starting_Point/)
 - [Exercise 1 - Acquiring Data from SAP Data Warehouse Cloud](exercises/1_DataMarketplace/README.md/)
 - [Exercise 2 - Connect to DWC](exercises/2_Connect_to_DWC/Readme.md/)
-
-
-  
-**OR** Link to the Tutorial Navigator for example...
-
-Start the exercises [here](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html).
-
-**IMPORTANT**
-
-Your repo must contain the .reuse and LICENSES folder and the License section below. DO NOT REMOVE the section or folders/files. Also, remove all unused template assets(images, folders, etc) from the exercises folder. 
+- [Exercise 3 - Copy planning model and load data](exercises/3_Copy_Model_and_Import_Data/Readme.md/)
+- [Exercise 4 - Story Building](exercises/4_Story_Building/Readme.md/)
+- [Exercise 5 - Create a Smart Predict Scenario](exercises/5_Create_A_Smart_Predict_Scenario/Readme.md/)
+- [Exercise 6 - Create a Multi Action](exercises/6_Create_A_Multi_Action/Readme.md/)
+- [Exercise 7 - Delete version data before running the prediction](exercises/7_Delete_Version_Data/Readme.md/)
+- [Exercise 8 - Story Building & forecasting/planning](exercises/8_Story_Building_Forecasting_Planning/Readme.md/)
+- [Exercise 9 - Export to DWC](exercises/9_Export_to_DWC/Readme.md/)
 
 ## Learn More
 To learn more about SAP Analytics Cloud, refer to the following sources of information:
