@@ -8,7 +8,7 @@ In this exercise, you will create a Smart Predict Scenario with energy price as 
 
 ![Screenshot1](https://github.com/SAP-samples/teched2022-DA280/blob/main/exercises/ex5/images/Screenshot1.PNG)
 
-2. Create a new Time Series Forecast
+2. Create a new Time Series Forecast.
 
 ![Screenshot2](https://github.com/SAP-samples/teched2022-DA280/blob/main/exercises/ex5/images/Screenshot2.PNG)
 
