@@ -71,5 +71,5 @@ This way, we can directly see the liquidity item, without having to drill down t
 ## Summary
 
 We have now created two tables in the story based on the imported data!
-We can now continue to - [Exercise 5 - Create a Smart Predict Scenario](../ex5/README.md).
+We can now continue to - [Exercise 5 - Create a Smart Predict Scenario](../5_Create_A_Smart_Predict_Scenario/README.md).
 

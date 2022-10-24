@@ -47,4 +47,4 @@ Your Smart Predict Scenario is created! Now you can review the results.
 
 ## Summary
 
-Now that you have created a smart predict scenario you can continue to - [Exercise 6 - Exercise 6 Description](../ex6/README.md)
+Now that you have created a smart predict scenario you can continue to - [Exercise 6 - Exercise 6 Description](../6_Create_A_Multi_Action/README.md)
