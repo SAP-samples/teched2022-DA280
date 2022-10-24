@@ -30,4 +30,4 @@ Save the Data Action you just created using the name given in the beginning of t
 ## Summary
 
 Now that you have created a Data Action to clean up the version data for your predictive scenario:
-Continue to - [Exercise 8 - Story Building & forecasting/planning](../ex8/README.md)
+Continue to - [Exercise 8 - Story Building & forecasting/planning](../8_Story_Building_Forecasting_Planning/README.md)
