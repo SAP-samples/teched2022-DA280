@@ -37,12 +37,12 @@ Here you find direct jumps to the distinct exercises:
 - [Exercise 1 - Acquiring Data from SAP Data Warehouse Cloud](exercises/1_DataMarketplace/)
 - [Exercise 2 - Connect to DWC](exercises/2_Connect_to_DWC/)
 - [Exercise 3 - Copy planning model and load data](exercises/3_Copy_Model_and_Import_Data/)
-- [Exercise 4 - Story Building](exercises/4_Story_Building/Readme.md/)
-- [Exercise 5 - Create a Smart Predict Scenario](exercises/5_Create_A_Smart_Predict_Scenario/Readme.md/)
-- [Exercise 6 - Create a Multi Action](exercises/6_Create_A_Multi_Action/Readme.md/)
-- [Exercise 7 - Delete version data before running the prediction](exercises/7_Delete_Version_Data/Readme.md/)
-- [Exercise 8 - Story Building & forecasting/planning](exercises/8_Story_Building_Forecasting_Planning/Readme.md/)
-- [Exercise 9 - Export to DWC](exercises/9_Export_to_DWC/Readme.md/)
+- [Exercise 4 - Story Building](exercises/4_Story_Building/)
+- [Exercise 5 - Create a Smart Predict Scenario](exercises/5_Create_A_Smart_Predict_Scenario/)
+- [Exercise 6 - Create a Multi Action](exercises/6_Create_A_Multi_Action/)
+- [Exercise 7 - Delete version data before running the prediction](exercises/7_Delete_Version_Data/)
+- [Exercise 8 - Story Building & forecasting/planning](exercises/8_Story_Building_Forecasting_Planning/)
+- [Exercise 9 - Export to DWC](exercises/9_Export_to_DWC/)
 
 ## Learn More
 To learn more about SAP Analytics Cloud, refer to the following sources of information:
