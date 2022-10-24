@@ -23,4 +23,5 @@ For the multi action, select the SAP__FI_CLM_PLF_RUN_PRED_LIQ_FC_FOR_PRIVATE_VER
 ## Summary
 
 Now that you have built in the prior created Action triggers, you have learnt how to include these into a story in SAC.
+
 Continue to [Exercise 9 - Export to DWC](../9_Export_to_DWC/README.md)
