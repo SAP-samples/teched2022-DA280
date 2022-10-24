@@ -34,9 +34,9 @@ The hands-on exercises begin with Exercise 1.
 Here you find direct jumps to the distinct exercises:
 
 - [Exercise 0 Overview and Starting Point](exercises/0_Overview_And_Starting_Point/)
-- [Exercise 1 - Acquiring Data from SAP Data Warehouse Cloud](exercises/1_DataMarketplace/README.md/)
-- [Exercise 2 - Connect to DWC](exercises/2_Connect_to_DWC/Readme.md/)
-- [Exercise 3 - Copy planning model and load data](exercises/3_Copy_Model_and_Import_Data/Readme.md/)
+- [Exercise 1 - Acquiring Data from SAP Data Warehouse Cloud](exercises/1_DataMarketplace/)
+- [Exercise 2 - Connect to DWC](exercises/2_Connect_to_DWC/)
+- [Exercise 3 - Copy planning model and load data](exercises/3_Copy_Model_and_Import_Data/)
 - [Exercise 4 - Story Building](exercises/4_Story_Building/Readme.md/)
 - [Exercise 5 - Create a Smart Predict Scenario](exercises/5_Create_A_Smart_Predict_Scenario/Readme.md/)
 - [Exercise 6 - Create a Multi Action](exercises/6_Create_A_Multi_Action/Readme.md/)
