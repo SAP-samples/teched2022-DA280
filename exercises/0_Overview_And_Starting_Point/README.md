@@ -119,4 +119,4 @@ In SAP Data Warehouse Cloud:
 - [Graphical View Builder](https://help.sap.com/docs/SAP_DATA_WAREHOUSE_CLOUD/d4f3c5a0bb074d09ae9b42b2b9bd7a08/2bd7a2af84614b33ac3353a0b4399ba7.html)
 - [Data Integration Monitor](https://help.sap.com/docs/SAP_DATA_WAREHOUSE_CLOUD/be5967d099974c69b77f4549425ca4c0/4cbf7c7fc64645bfa364332827557267.html)
 
-You can now move on to [Exercise 1 - Combining External and Internal Data in SAP Data Warehouse Cloud](teched2022-DA280/exercises/1_DataMarketplace/README.md)
+You can now move on to [Exercise 1 - Combining External and Internal Data in SAP Data Warehouse Cloud](teched2022-DA280/exercises/1_DataMarketplace/README.md/)
