@@ -33,7 +33,7 @@ The hands-on exercises begin with Exercise 1.
 
 Here you find direct jumps to the distinct exercises:
 
-- [Exercise 0 Overview and Starting Point](exercises/0_Overview_And_Starting_Point/)
+- [Exercise 0 - Overview and Starting Point](exercises/0_Overview_And_Starting_Point/)
 - [Exercise 1 - Acquiring Data from SAP Data Warehouse Cloud](exercises/1_DataMarketplace/)
 - [Exercise 2 - Connect to DWC](exercises/2_Connect_to_DWC/)
 - [Exercise 3 - Copy planning model and load data](exercises/3_Copy_Model_and_Import_Data/)
