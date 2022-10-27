@@ -2,7 +2,7 @@
 In this exercise, we will copy the planning model from the sample content into our own folder and import the actual data and influencers from SAP Data Warehouse Cloud.
 For this, we will use an existing connection to DWC and create an data import job in the planning model.
 
-## Exercise 1.1 Copy the planning model
+## Exercise 3.1 Copy the planning model
 
 1. First, we open the Files folder by clicking on "Files" on the left navigation panel.
 
