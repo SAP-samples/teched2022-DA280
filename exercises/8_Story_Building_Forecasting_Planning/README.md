@@ -1,7 +1,7 @@
 # Exercise 8 - Story Building & forecasting/planning
 In this exercise, you will build a story and include the forecasting Data action on a prepared Version. There will be another Data Action included to Delete the version data in case you want to work on a prior used version.
 
-## Level 2 Heading
+## Add Data Action and Multi Action to the story
 
 After completing these steps you will have a knowledge of how to involve Data Actions and Multi Actions into a story using an action trigger event.
 
