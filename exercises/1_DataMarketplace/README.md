@@ -22,7 +22,7 @@ If it looks like the following, you successfully completed our first exercise (y
 <br>![](/exercises/1_DataMarketplace/images/05-Preview.png)
 
 
-## Exercise 1.2 Combining data and creating a consumpable view
+## Exercise 1.2 Combining data and creating a consumable view
 
 After completing these steps you will have created an Analytical Dataset in SAP Data Warehouse Cloud, which combines external data from Data Marketplace with internal actuals. 
 
