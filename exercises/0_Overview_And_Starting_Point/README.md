@@ -55,7 +55,7 @@ In particular, the API has the following key characteristics:
 
 - It supports deployed Data Layer entities which are marked as “expose for consumption”. This includes views of semantic type Analytical Dataset and Dimension.
 - It supports standard OData v4 query parameters ($select, $filter, $top, $skip, $orderBy, $count, etc.).
-- It supports business user access and authentication via OAuth 2.0 authorization c
+- It supports business user access and authentication via OAuth 2.0 authorization
 
 Moreover, we strongly recommend that the data in question is either replicated (via remote table replication or data flow) or the respective view’s data is snapshotted in SAP Data Warehouse Cloud.
 
