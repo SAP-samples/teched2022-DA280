@@ -49,5 +49,5 @@ Note: The OData API for SAP Data Warehouse Cloud only provides access to DWC art
 
 3. One last action: Let us deploy the Analytical Dataset. 
 
-You have now successfully created a conumsable view in SAP Data Warehouse Cloud. Let us now navigate to SAP Analytics Cloud and continue with - [Exercise 2 - Connect to DWC](/exercises/2_Connect_to_DWC/)
+You have now successfully created a consumable view in SAP Data Warehouse Cloud. Let us now navigate to SAP Analytics Cloud and continue with - [Exercise 2 - Connect to DWC](/exercises/2_Connect_to_DWC/)
 
