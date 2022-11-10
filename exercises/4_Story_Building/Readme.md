@@ -17,15 +17,18 @@ On the second page there are already two data action triggers as a blueprint whi
 
 ![](/exercises/4_Story_Building/images/screenshot02.png)
 
+3. Let's also change the underlying data model of the table from the sample content to our own model which we previously created. To do so we click on change primary model and select our data model.
 
-3. Now we add Measures and Dimensions to the rows and columns of the table. We start adding "Transaction Currency" to the rows of the table. 
+![](/exercises/4_Story_Building/images/screenshot_add_01.png)
+
+4. Now we add Measures and Dimensions to the rows and columns of the table. We start adding "Transaction Currency" to the rows of the table. 
 This can be done by clicking on "Add Dimensions" and then we choose "Transaction Currency".
 
 ![](/exercises/4_Story_Building/images/screenshot03.png)
 
-4. Next, we add the Time dimension to the columns of the table
+5. Next, we add the Time dimension to the columns of the table
 
-5. For Measures we change the Filter:
+6. For Measures we change the Filter:
 
 ![](/exercises/4_Story_Building/images/screenshot04.png)
 
@@ -33,16 +36,16 @@ select "Cash Closing", "Cash Opening" and "Cash Flows related to operating activ
 
 ![](/exercises/4_Story_Building/images/screenshot05.png)
 
-6. For better readability, we want the Transaction Currency column to be displayed as the first row of the table. 
+7. For better readability, we want the Transaction Currency column to be displayed as the first row of the table. 
 This can be changed by drag and drop in the Builder panel.
 
 ![](/exercises/4_Story_Building/images/screenshot06.png)
 
-7. We also filter the time dimension to 2020, 2021 and 2022 and expand the years 2020 and 2021. Let's also drill down on the liquidity items to have a more detailed view on the data. 
+8. We also filter the time dimension to 2020, 2021 and 2022 and expand the years 2020 and 2021. Let's also drill down on the liquidity items to have a more detailed view on the data. 
 
 ![](/exercises/4_Story_Building/images/screenshot07.png)
 
-8. For better contrast in the story, we can change the background color of the table to white in the Styling panel.
+9. For better contrast in the story, we can change the background color of the table to white in the Styling panel.
 
 ![](/exercises/4_Story_Building/images/screenshot08.png)
 
