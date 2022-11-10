@@ -85,7 +85,7 @@ Planning models are prepared and preconfigured to help you perform business plan
 - Auditing features for traceability.
 - Security features that make it possible for you to restrict access to specific values in data grids to named individuals.
 
-More information on modeling can be found within our [Leanr More materials](https://github.com/SAP-samples/teched2022-DA280#learn-more)
+More information on modeling can be found within our [Learn More materials](https://github.com/SAP-samples/teched2022-DA280#learn-more)
 
 For our workshop, we have prepared a simple planning model that you will copy later on to load and manipulate data. 
 <br>![](/exercises/0_Overview_And_Starting_Point/images/0.5_LiquidityModel.png)
