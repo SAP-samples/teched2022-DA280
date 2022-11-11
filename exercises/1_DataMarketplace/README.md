@@ -13,7 +13,7 @@ In this exercise, we first look for external data on energy prices in the Data M
 3. Select the data product and read through its description. Notice that it has various categories assigned (which improve its visibility in the search)  and is accessible for free.
 <br>![](/exercises/1_DataMarketplace/images/03-Description.png)
 
-4. Load the data product into your DWC space. To do so, select the top-right button "Load for Free", select the respective space in the pop-up and load the data product.
+4. Load the data product into your DWC space. To do so, select the top-right button "Load for Free", select the respective space (named with your User ID) in the pop-up and load the data product.
 <br>![](/exercises/1_DataMarketplace/images/04-Load.png)
 
 5. It will now take a moment until the external data is accessible in our space. Luckily, DWC notifies us when the table replication is completed successfully. Once done, let us navigate to the Data Builder and select the newly created remote table with business name "V_Energy_Prices_TechEd_Demo". 
