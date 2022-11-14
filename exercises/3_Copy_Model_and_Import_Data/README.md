@@ -18,7 +18,6 @@ This folder contains the story and data model which we will use as the basis for
 ![](/exercises/3_Copy_Model_and_Import_Data/images/screenshot03.png)
  
 4. In the pop-up box we change the folder name to TechEd2022_DA280_[yourlastname] (please replace [yourlastname] with your last name!) and save the copied folder to My Files
-
 ![](/exercises/3_Copy_Model_and_Import_Data/images/screenshot04.png)
 
 ## Exercise 3.2 Import data
