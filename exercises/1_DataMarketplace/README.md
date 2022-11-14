@@ -33,7 +33,7 @@ In Exercise 1.2 you will create an Analytical Dataset in SAP Data Warehouse Clou
 - Note that DWC is smart and already mapped all columns from the first table to those columns from the second table with the same business name. You will need to manually map both sides only for the "version" column. 
 
 The result should look like the following: 
-<br>![](/exercises/1_DataMarketplace/images/06-Union.png)
+<br>![](/exercises/1_DataMarketplace/images/1.2_Union_New.png)
 
 2. Finally, let us navigate to the output node and define the view properties. Let us adapt the following: 
 
@@ -45,7 +45,7 @@ The result should look like the following:
 
 Note: The OData API for SAP Data Warehouse Cloud only provides access to DWC artefacts which are exposed for consumption. This is why it is important to enable the field Expose for Consumption. 
 
-<br>![](/exercises/1_DataMarketplace/images/07-ADS.png)
+<br>![](/exercises/1_DataMarketplace/images/1.2_Result.png)
 
 3. One last action: Let us deploy the Analytical Dataset. 
 <br>![](/exercises/1_DataMarketplace/images/08-Deploy.png)
