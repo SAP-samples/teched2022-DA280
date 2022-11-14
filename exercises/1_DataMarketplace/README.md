@@ -24,7 +24,7 @@ If it looks like the following, you successfully completed our first exercise (y
 
 ## Exercise 1.2 Combining data and creating a consumable view
 
-After completing these steps you will have created an Analytical Dataset in SAP Data Warehouse Cloud, which combines external data from Data Marketplace with internal actuals. 
+In Exercise 1.2 you will create an Analytical Dataset in SAP Data Warehouse Cloud, which combines external data from Data Marketplace with internal actuals. 
 
 1. Now that we have acquired the external data and made it accessible in our space, let us now combine it with our internal data. To do so, let us create a new graphical view and **union** "V_Energy_Prices_TechEd_Demo" with our actuals data in "T_S4_ACT". 
 
