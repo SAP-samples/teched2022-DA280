@@ -1,6 +1,6 @@
 # Exercise 2 - Connect to DWC
 
-In this short exercise, we will create a connection from SAP Analytics Cloud to the Analytical Dataset from our first exercise.
+In this short exercise, we will create a connection from SAP Analytics Cloud to connect to the Analytical Dataset we created in our first exercise.
 
 1. First, let us navigate to the SAP Analytics Cloud and open the Connections panel: 
 <br>![](/exercises/2_Connect_to_DWC/images/01_Connections.png)
