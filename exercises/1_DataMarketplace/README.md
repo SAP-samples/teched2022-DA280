@@ -7,7 +7,7 @@ In this exercise, we first look for external data on energy prices in the Data M
 1. First, let us navigate to the Data Marketplace. As the name suggests, it is like a marketplace for data consumers and data providers, and allows the easy integration of external data. If this is news to you, feel free to explore the various data products that are available. 
 <br>![](/exercises/1_DataMarketplace/images/01-DM.png)
 
-2. Let us now search for a data product that contains the historic evolution of the energy price, as well as a forecast into the future. Thus, type in "2022_TechEd_DA280" into the search field. We will find exactly one data product that matches our search. 
+2. Let us now search for a data product that contains the historic evolution of the energy prices, as well as a forecast into the future. Thus, type in "2022_TechEd_DA280" into the search field. We will find exactly one data product that matches our search. 
 <br>![](/exercises/1_DataMarketplace/images/02-Search.png)
 
 3. Select the data product and read through its description. Notice that it has various categories assigned (which improve its visibility in the search)  and is accessible for free.
