@@ -43,7 +43,7 @@ The result should look like the following:
   - Measures: "Amount"
   - Attribues: All remaining columns 
 
-Note: The OData API for SAP Data Warehouse Cloud only provides access to DWC artefacts which are exposed for consumption. This is why it is important to enable this field. 
+Note: The OData API for SAP Data Warehouse Cloud only provides access to DWC artefacts which are exposed for consumption. This is why it is important to enable the field Expose for Consumption. 
 
 <br>![](/exercises/1_DataMarketplace/images/07-ADS.png)
 
