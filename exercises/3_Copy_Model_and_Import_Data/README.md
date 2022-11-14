@@ -1,6 +1,5 @@
 # Exercise 3 - Copy planning model and load data
-In this exercise, we will copy the planning model from the sample content into our own folder and import the actual data and influencers from SAP Data Warehouse Cloud.
-For this, we will use an existing connection to DWC and create an data import job in the planning model.
+In this exercise, we will copy the planning model from the sample content into our own folder and import the actual data and influencers from SAP Data Warehouse Cloud (DWC). For this, we will use an existing connection to DWC and create an data import job in the planning model.
 
 ## Exercise 3.1 Copy the planning model
 
@@ -9,7 +8,7 @@ For this, we will use an existing connection to DWC and create an data import jo
 ![screenshot01](https://user-images.githubusercontent.com/112691476/196177480-bf012fcc-6033-414d-a58b-ad321af88a2e.png)
 
 2. Next, we navigate to the public folder, where we can find the TechEd sample content.
-This folder contains the story and data model which we will use as the basis for the next excercises.
+This folder contains the story and data model which we will use as the basis for the next exercises.
 
 ![](/exercises/3_Copy_Model_and_Import_Data/images/screenshot02.png)
 
@@ -18,13 +17,13 @@ This folder contains the story and data model which we will use as the basis for
 
 ![](/exercises/3_Copy_Model_and_Import_Data/images/screenshot03.png)
  
-4. In the pop-up box we change the file name to TechEd2022_DA280_[yourlastname] and save the copy to My Files / Public
+4. In the pop-up box we change the file name to TechEd2022_DA280_[yourlastname] and save the copy to My Files
 
 ![](/exercises/3_Copy_Model_and_Import_Data/images/screenshot04.png)
 
 ## Exercise 3.2 Import data
 
-1. Now let's load the data from Data Warehouse Cloud into our SAP Analytics Cloud Model and build a table on top of it. We nagivate into our copied sample content folder and open the Model.
+1. Now let's load the data from SAP Data Warehouse Cloud into our SAP Analytics Cloud (SAC) model and build a table on top of it. We navigate into our copied sample content folder and open the model.
 
 2. We switch to the Data Management View of the model where we can create the Import Job.
 
