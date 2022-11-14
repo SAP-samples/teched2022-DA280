@@ -28,7 +28,7 @@ In Exercise 1.2 you will create an Analytical Dataset in SAP Data Warehouse Clou
 
 1. Now that we have acquired the external data and made it accessible in our space, let us now combine it with our internal data. To do so, let us create a new graphical view and **union** "V_Energy_Prices_TechEd_Demo" with our actuals data in "T_S4_ACT". 
 
-- First, drag and drop the "T_S4_ACT" table into the canvas. 
+- First, drag and drop the "T_S4_ACT" table into the canvas (the table is available under Shared Objects / Tables)
 - Afterwards, select the "V_Energy_Prices_TechEd_Demo" table from the leftside panel and hover it over the first table on the canvas. DWC will suggest you three options (union, join or replace), from which you will select the first one.
 - Note that DWC is intelligent and already mapped all columns from the first table to those columns from the second table with the same business name. Only for the "version" column, you will need to manually map both sides. 
 
