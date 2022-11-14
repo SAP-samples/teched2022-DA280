@@ -41,7 +41,7 @@ The result should look like the following:
   - Semantic Usage: "Analytical Dataset"
   - Expose for Consumption: Enabled
   - Measures: "Amount"
-  - Attribues: All remaining columns 
+  - Attributes: All remaining columns 
 
 Note: The OData API for SAP Data Warehouse Cloud only provides access to DWC artefacts which are exposed for consumption. This is why it is important to enable the field Expose for Consumption. 
 
