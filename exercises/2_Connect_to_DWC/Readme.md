@@ -18,6 +18,7 @@ If your tenant URL includes EU10:
 - Secret: 6cdd9c60-ae89-41e8-86e8-c2f53a8df5e4$kvBO_DATme4Y-poz6diWwKeU7_RA2wFLJLEswncgc5E=
 - Token URL: https://academy-t-dwc.authentication.eu10.hana.ondemand.com/oauth/token 
 - Authorization URL: https://academy-t-dwc.authentication.eu10.hana.ondemand.com/oauth/authorize
+
 An example for the Data Service URL would be: https://academy-t-dwc.eu10.hcs.cloud.sap/api/v1/dwc/consumption/relational/TECHED_DEMO/V_Union_Actuals_and_Influencer  
 
 If your tenant URL includes US10:
@@ -28,6 +29,7 @@ If your tenant URL includes US10:
 - Secret: 6cdd9c60-ae89-41e8-86e8-c2f53a8df5e4$kvBO_DATme4Y-poz6diWwKeU7_RA2wFLJLEswncgc5E=
 - Token URL: https://academy-t-dwc.authentication.us10.hana.ondemand.com/oauth/token 
 - Authorization URL: https://academy-t-dwc.authentication.us10.hana.ondemand.com/oauth/authorize
+
 An example for the Data Service URL would be: https://academy-t-dwc.us10.hcs.cloud.sap/api/v1/dwc/consumption/relational/TECHED_DEMO/V_Union_Actuals_and_Influencer 
 
 If your tenant URL includes AP11:
@@ -38,6 +40,7 @@ If your tenant URL includes AP11:
 - Secret: 6cdd9c60-ae89-41e8-86e8-c2f53a8df5e4$kvBO_DATme4Y-poz6diWwKeU7_RA2wFLJLEswncgc5E=
 - Token URL: https://academy-t-dwc.authentication.ap11.hana.ondemand.com/oauth/token 
 - Authorization URL: https://academy-t-dwc.authentication.ap11.hana.ondemand.com/oauth/authorize
+
 An example for the Data Service URL would be: https://academy-t-dwc.ap11.hcs.cloud.sap/api/v1/dwc/consumption/relational/TECHED_DEMO/V_Union_Actuals_and_Influencer 
 
 <br>![](/exercises/2_Connect_to_DWC/images/03_Configuration.png)
