@@ -2,7 +2,7 @@
 
 In this short exercise, we will create a connection from SAP Analytics Cloud to connect to the Analytical Dataset we created in our first exercise.
 
-1. First, let us navigate to the SAP Analytics Cloud and open the Connections panel: 
+1. First, let us navigate to SAP Analytics Cloud and open the Connections panel: 
 <br>![](/exercises/2_Connect_to_DWC/images/01_Connections.png)
 
 2. SAP Data Warehouse Cloud offers a public OData API (details https://api.sap.com/api/ODataAPI/overview) to support the replication of models to SAP Analytics Cloud. Let us therefore add a connection and select the OData connection type:  
