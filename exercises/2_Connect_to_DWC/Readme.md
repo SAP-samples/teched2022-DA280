@@ -45,4 +45,4 @@ An example for the Data Service URL would be: https://academy-t-dwc.ap11.hcs.clo
 
 <br>![](/exercises/2_Connect_to_DWC/images/03_Configuration.png)
 
-Finally, click on OK and you should receive a positive confirmation.
+Finally, click on Create and you should receive a positive confirmation.
