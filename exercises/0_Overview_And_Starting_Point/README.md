@@ -25,6 +25,9 @@ In the Data Builder of SAP Data Warehouse Cloud, you can define data models for 
 - A table containing cash flow statement actuals from S/4HANA
 - A view on top of this table
 
+They will be available for you via Shared Objects when you create a new view:
+<br>![](/exercises/0_Overview_And_Starting_Point/images/0.2_Shared_Objects.png)
+
 ## 0.3 - SAP Data Warehouse Cloud - Data Marketplace
 Data Marketplace is fully integrated into SAP Data Warehouse Cloud. It’s tailored for businesses to easily integrate third-party data. You can search and purchase analytical data from data providers. The data comes in form of objects packaged as data products that can be used in one or several spaces of your SAP Data Warehouse Cloud tenant.
 
