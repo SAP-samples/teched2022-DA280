@@ -38,7 +38,7 @@ In this exercise, you will create a multi action with two steps.
 
 ![Screenshot16](https://github.com/SAP-samples/teched2022-DA280/blob/main/exercises/6_Create_A_Multi_Action/images/Screenshot16.PNG)
 
-9. Choose Predictive Forecast as a Version and give this step a name like shown in the Screenshot:
+9. Choose Predictive Forecast as a Version and give this step a name like shown in the Screenshot (e.g. Publish Predictive Forecast):
 
 ![Screenshot17](https://github.com/SAP-samples/teched2022-DA280/blob/main/exercises/6_Create_A_Multi_Action/images/Screenshot17.PNG)
 
