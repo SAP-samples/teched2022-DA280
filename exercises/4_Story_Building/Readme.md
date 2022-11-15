@@ -6,14 +6,14 @@ Now that we have imported the data from SAP Datawarehouse Cloud (DWC) to our SAP
 On the first page (Liquidity Overview), we can see the financial data visualized with different charts and key figures.
 On the second page (Liquidity Planning) there are already two planning triggers as a blueprint which we will use later. 
 
-## Exercise 4.1 [TO BE REVISED] Create the first table
+## Exercise 4.1 Create the first table
 
 
-1. [TO BE REVISED] To add a table to the story, switch the story from View mode to Edit mode, select the tab Liquidity Planning and click on "Table" in the "Insert" toolbar.
+1. To add a table to the story, switch the story from View mode to Edit mode, select the tab Liquidity Planning and click on "Table" in the "Insert" toolbar.
 
 ![](/exercises/4_Story_Building/images/screenshot01.png)
 
-2. [TO BE REVISED] We move the table to the left side of the story and resize its size as shown in the screenshot.
+2. We move the table to the left side of the story and resize its size as shown in the screenshot.
 
 ![](/exercises/4_Story_Building/images/screenshot02.png)
 
