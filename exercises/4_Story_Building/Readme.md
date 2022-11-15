@@ -44,7 +44,7 @@ This can be changed by dragging and dropping the Transaction Currency field in t
 
 9. We now delete the 2022 data from the table (our actuals stop in December 2021, the data with zeroes is due to a data quality problem). For this we fold the different items in the table. Then we select the values in the column 2022 and hit the delete key. 
 
-![](/exercises/4_Story_Building/images/screenshot-delete.PNG)
+![](/exercises/4_Story_Building/images/screenshot-delete.png)
 
 10. For better contrast in the story, we can change the background color of the table to white in the Styling panel.
 
