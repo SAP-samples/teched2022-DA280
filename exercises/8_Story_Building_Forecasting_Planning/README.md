@@ -1,5 +1,5 @@
 # Exercise 8 - Story Building & forecasting/planning
-In this exercise, you will build a story and include the forecasting Data action on a prepared Version. There will be another Data Action included to Delete the version data in case you want to work on a prior used version.
+In this exercise, you will build a story and include the forecasting multi action on a prepared version. There will be another Data Action included to Delete the version data in case you want to work on a prior used version.
 
 ## Add Data Action and Multi Action to the story
 
