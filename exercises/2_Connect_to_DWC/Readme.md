@@ -25,8 +25,8 @@ If your SAP Analytics Cloud URL includes US10:
 - Connection Name: DA280_<your_sac_user_id>
 - Data Service URL: https://academy-t-dwc.us10.hcs.cloud.sap/api/v1/dwc/consumption/relational/<your_dwc_space_id>/<your_analytical_dataset> 
 - Authentication Type: OAuth 2.0 Authorization Code
-- OAuth Client ID: sb-c4c8f8d0-27e2-4dd8-a192-e38c5cc7e451!b65895|client!b655
-- Secret: 911ecd68-342d-4c13-97a0-9cfdfb773829$qqEYbkQG5y1kYxz2VTHfmw5ysKUBmsNfVE0IiRAUzUc=
+- OAuth Client ID: sb-26782ba9-1e24-4a70-ba59-51713a91ac5a!b65895|client!b655
+- Secret: d309d6b7-1514-40cb-9518-dfbc2ddcca7f$NN4Mpm18BE0nVEof9UMy5ofF5xUazwJnVY7OMe0xloQ=
 - Token URL: https://academy-t-dwc.authentication.us10.hana.ondemand.com/oauth/token 
 - Authorization URL: https://academy-t-dwc.authentication.us10.hana.ondemand.com/oauth/authorize
 
@@ -36,8 +36,8 @@ If your SAP Analytics Cloud URL includes AP11:
 - Connection Name: DA280_<your_sac_user_id>
 - Data Service URL: https://academy-t-dwc.ap11.hcs.cloud.sap/api/v1/dwc/consumption/relational/<your_dwc_space_id>/<your_analytical_dataset> 
 - Authentication Type: OAuth 2.0 Authorization Code
-- OAuth Client ID: sb-b17faf8d-5dcb-4e74-b149-40028217a4e7!b853|client!b23
-- Secret: e4bd4ea1-e1bc-4a8f-bd5b-056b61610323$bY-qioYrby5utXpXAP0xxG1fT7p5shRvKqN-02t3XE4=
+- OAuth Client ID: sb-623ccfb1-8e5f-4c33-a10b-939703e77848!b853|client!b23
+- Secret: bbf8384b-cd9e-4f7a-9958-2a54b2254de7$z3TuigvJ7ExsOr4Fk1kFn-GHCzdUPO7BwbTKR4rSuEk=
 - Token URL: https://academy-t-dwc.authentication.ap11.hana.ondemand.com/oauth/token 
 - Authorization URL: https://academy-t-dwc.authentication.ap11.hana.ondemand.com/oauth/authorize
 
