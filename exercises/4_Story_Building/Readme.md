@@ -21,7 +21,7 @@ On the second page (Liquidity Planning) there are already two planning triggers 
 
 ![](/exercises/4_Story_Building/images/screenshot_add_01.png)
 
-4. Now we add Measures and Dimensions to the rows and columns of the table. We start adding "Transaction Currency" to the rows of the table. 
+4. Now we add Measures and Dimensions to the rows and columns of the table. We add "Transaction Currency" to the rows of the table. 
 This can be done by clicking on "Add Dimensions" and then we choose "Transaction Currency".
 
 ![](/exercises/4_Story_Building/images/screenshot03.png)
