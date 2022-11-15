@@ -1,6 +1,6 @@
 # Exercise 5 - Create a Smart Predict Scenario 
 
-In this exercise, you will create a Smart Predict Scenario with energy price as the influencer.
+In this exercise, you will create a Smart Predict scenario with the energy price as an influencer.
 
 ## Creating a Smart Predict Scenario
 
