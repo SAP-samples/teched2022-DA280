@@ -34,7 +34,7 @@ In this exercise, you will create a multi action with two steps.
 
 ![Screenshot15](https://github.com/SAP-samples/teched2022-DA280/blob/main/exercises/6_Create_A_Multi_Action/images/Screenshot15.PNG)
 
-8. Select a Model in the Panel on the right. Navigate to your folder and select the "COPY_SAP_FI_CLM_IM_LIQUIDITY_PLANNING" model by clicking on it.
+8. Select a Model in the Panel on the right. Navigate to your TechEd folder in My Files and select the "COPY_SAP_FI_CLM_IM_LIQUIDITY_PLANNING" model by clicking on it.
 
 ![Screenshot16](https://github.com/SAP-samples/teched2022-DA280/blob/main/exercises/6_Create_A_Multi_Action/images/Screenshot16.PNG)
 
