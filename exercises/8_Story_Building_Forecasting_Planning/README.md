@@ -5,7 +5,7 @@ In this exercise, you will build a story and include the forecasting Data action
 
 After completing these steps you will have a knowledge of how to involve Data Actions and Multi Actions into a story using an action trigger event.
 
-1.	For this exercise, we are working with the "SAP_FI_CLM_LIQUIDITY_PLANNING" story which can be found in the MyFiles folder created beforehand by copying "TechEd2022_DA280_SampleContent". 
+1.	For this exercise, we are working with the "SAP_FI_CLM_LIQUIDITY_PLANNING" story which can be found in the MyFiles folder created beforehand by copying "TechEd2022_DA280_SampleContent" as "TechEd2022_DA280_/LASTNAME/". 
 ![Ex8_1](https://user-images.githubusercontent.com/112930664/197132153-11371e97-0ce1-403f-9528-cc845b7d1217.png)
 2.	Navigate to page 2 in the navigation panel to create another story for the predictive forecast. After including the multi action trigger and the data action trigger, the story should look similar to the one below.
 ![ex8_2](https://user-images.githubusercontent.com/112930664/197132155-2f714d97-e6c3-4f5e-b771-7b51a3c2089a.png)
