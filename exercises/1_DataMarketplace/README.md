@@ -41,6 +41,8 @@ In Exercise 1.2 you will create an Analytical Dataset in SAP Data Warehouse Clou
 The result should look like the following: 
 <br>![](/exercises/1_DataMarketplace/images/1.2_Union_New.png)
 
+Ignore any yellow warning message on the Union. This is due to a minor mistake in the data product for the energy prices and will not have any negative effect going forward.
+
 2. Finally, let us navigate to the output node and define the view properties. Let us adapt the following: 
 
   - Business_Name: "V Union Actuals and Influencer"
