@@ -75,7 +75,7 @@ This folder contains the story and data model which we will use as the basis for
 
 ![](/exercises/3_Copy_Model_and_Import_Data/images/screenshot17.png)
 
-Thereby, you successfully imported data from DWC to SAC, congratulations!
+Thereby, you successfully imported data from DWC to SAC, congratulations! Any yellow warnings can be ignored. These are due to null values in one of the files uploaded to DWC. This has no negative impact going forward.
 
 
 ## Summary
