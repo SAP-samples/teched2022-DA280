@@ -25,7 +25,7 @@ After creating an "Advanced Formulas Step", you can give this step a unique name
 
 ![Deletion 12](https://user-images.githubusercontent.com/112930664/196198889-625baaf4-4a10-4679-b71b-79e52a8466cb.png)
 
-Save the Data Action you just created using the name given in the beginning of these steps. 
+Save the Data Action you just created using the name given in the beginning of these steps. **During testing, we rarely faced an issue saving the Data Action. If this occurs, please reload and repeat.**
 
 ## Summary
 
