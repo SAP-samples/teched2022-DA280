@@ -43,6 +43,6 @@ If your SAP Analytics Cloud URL includes AP11:
 
 An example for the Data Service URL would be: https://academy-t-dwc.ap11.hcs.cloud.sap/api/v1/dwc/consumption/relational/TECHED_DEMO/V_Union_Actuals_and_Influencer 
 
-<br>![](/exercises/2_Connect_to_DWC/images/03_Configuration.png)
+<br>![](/exercises/2_Connect_to_DWC/images/03_Configuration.JPG)
 
 Finally, click on Create and you should receive a positive confirmation.
