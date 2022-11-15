@@ -70,7 +70,6 @@ Refreh the status ocassionaly in the monitor until the Data Flow run is complete
 <br>![](/exercises/9_Export_to_DWC/images/8_18.png)
 
 Go back to the Data Flow, mark the table and toggle the data preview.
-
 <br>![](/exercises/9_Export_to_DWC/images/8_19.png)
 
 **Congratulations! You have completed all exercises! Thanks so much!**
