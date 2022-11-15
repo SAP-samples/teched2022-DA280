@@ -2,16 +2,12 @@
 We now want to export the generated plan data from SAP Analytics Cloud to SAP Data Warehouse Cloud. The plan data could be used for downstream processing and combined plan vs. ACT reporting there. 
 
 ## 9.1 - OAuth Client in SAP Analytics Cloud
-An OAuth Client has already been set up in SAP Analytics Cloud. You need its credentials and the SAC system's authorization URL and Token URL.
+An OAuth Client has already been set up in SAP Analytics Cloud. You need its credentials and the SAC system's authorization URL and Token URL. Since you are not authorized to go to System - Administration - App Integration (where you would usually find this), please use the following credentials and URLs:
 
-Navigate to System - Administration. 
-<br>![](/exercises/9_Export_to_DWC/images/8_1.png)
-
-Go to App Integration and take note of the Authorization URL and the Token URL. Then open the "SACtoDWC" OAuth client.
-<br>![](/exercises/9_Export_to_DWC/images/8_2.png)
-
-Take note of the OAuth client ID and secret.
-<br>![](/exercises/9_Export_to_DWC/images/8_3.png)
+OAuth Client ID: sb-25518ec4-4cc5-444f-883b-97ce341a9e18!b130365|client!b3650
+Secret: cccfdbbc-9a90-4bc8-9c4e-2b8d50102bf6$xzsl5LGQNwvZIst2jqotcNOd-CEq7d8reWDWFeFebQY=
+Token URL: https://academy-t-sac.authentication.eu10.hana.ondemand.com/oauth/token
+Authorization URL: https://academy-t-sac.authentication.eu10.hana.ondemand.com/oauth/authorize
 
 In SAP Data Warehouse Cloud, go to Connections and click 'Create'.
 <br>![](/exercises/9_Export_to_DWC/images/8_4.png)
