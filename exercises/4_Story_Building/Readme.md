@@ -42,6 +42,10 @@ This can be changed by dragging and dropping the Transaction Currency field in t
 
 ![](/exercises/4_Story_Building/images/screenshot07.png)
 
+Save your story in between.
+
+![](/exercises/4_Story_Building/images/4_SaveStory.png)
+
 9. We now delete the 2022 data from the table (our actuals stop in December 2021, the data with zeroes is due to a data quality problem). For this we fold the different items in the table. Then we select the values in the column 2022 and hit the delete key. Finally we publish the data changes. The final result should look like below. 
 
 ![](/exercises/4_Story_Building/images/screenshotdelete.png)
@@ -70,6 +74,8 @@ This way, we can directly see the liquidity item, without having to drill down t
 
 ![](/exercises/4_Story_Building/images/screenshot12.png)
 
+Now, please save your story again.
+![](/exercises/4_Story_Building/images/4_SaveStory.png)
 
 
 ## Summary
