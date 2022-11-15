@@ -7,11 +7,11 @@ In Exercise 1.2 you will create an Analytical Dataset in SAP Data Warehouse Clou
 1. We create a new graphical view and **union** "V_Energy_Prices_TechEd_Demo" with our actuals data in "T_S4_ACT". 
 
 - First, drag and drop the "T_S4_ACT" table into the canvas (the table is available under Shared Objects / Tables)
-- Afterwards, select the "V_Energy_Prices_TechEd_Demo" table from the leftside panel and hover it over the first table on the canvas. DWC will suggest you three options (UNION, JOIN or REPLACE), from which you will select the first one (UNION).
+- Afterwards, select the "V_Energy_Prices_TechEd_Demo" table from the shared objects as well and hover it over the first table on the canvas. DWC will suggest you three options (UNION, JOIN or REPLACE), from which you will select the first one (UNION).
 - Note that DWC is smart and already mapped all columns from the first table to those columns from the second table with the same business name. You will need to manually map both sides only for the "version" column. 
 
 The result should look like the following: 
-<br>![](/exercises/1_DataMarketplace/images/1.2_Union_New.png)
+<br>![](/exercises/Z_1B_DataMarketplace_Fallback/images/1B.2_Union_New.png)
 
 2. Finally, let us navigate to the output node and define the view properties. Let us adapt the following: 
 
