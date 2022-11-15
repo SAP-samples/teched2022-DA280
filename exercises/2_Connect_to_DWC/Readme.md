@@ -45,4 +45,4 @@ An example for the Data Service URL would be: https://academy-t-dwc.ap11.hcs.clo
 
 <br>![](/exercises/2_Connect_to_DWC/images/03_Configuration.JPG)
 
-Finally, click on Create and you should receive a positive confirmation.
+Finally, click on Create and you should receive a positive confirmation. Afterwards, you can move on to [Exercise 3 - Copy planning model and load data](exercises/3_Copy_Model_and_Import_Data/)
