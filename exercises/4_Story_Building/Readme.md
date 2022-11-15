@@ -8,7 +8,7 @@ On the second page (Liquidity Planning) there are already two planning triggers 
 
 ## Exercise 4.1 Create the first table
 
-1. To add a table to the story, we click on "Table" in the "Insert" toolbar.
+1. To add a table to the story, switch the story from View mode to Edit mode and click on "Table" in the "Insert" toolbar.
 
 ![](/exercises/4_Story_Building/images/screenshot01.png)
 
