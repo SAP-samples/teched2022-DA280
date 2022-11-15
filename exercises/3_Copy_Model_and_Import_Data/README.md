@@ -22,7 +22,7 @@ This folder contains the story and data model which we will use as the basis for
 
 ## Exercise 3.2 Import data
 
-1. Now let's load the data from SAP Data Warehouse Cloud into our SAP Analytics Cloud (SAC) model and build a table on top of it. We navigate into our copied sample content folder (**navigate to Public to My Files**) and open the model (COPY_SAP__FI_CLM_IM_LIQUIDITY_PLANNING).
+1. Now let's load the data from SAP Data Warehouse Cloud into our SAP Analytics Cloud (SAC) model and build a table on top of it. We navigate into our copied sample content folder (**navigate from Public to My Files**) and open the model (COPY_SAP__FI_CLM_IM_LIQUIDITY_PLANNING).
 
 2. We switch to the Data Management View of the model where we can create the Import Job.
 
