@@ -12,7 +12,7 @@ In this exercise, you will create a Smart Predict scenario with the energy price
 
 ![Screenshot2](https://github.com/SAP-samples/teched2022-DA280/blob/main/exercises/5_Create_A_Smart_Predict_Scenario/images/Screenshot2.PNG)
 
-3. Navigate into your folder, choose a name for the predictive scenario and press "OK" to save it.
+3. Navigate into your My Files folder, choose a name for the predictive scenario e.g. Predictive Liquidity Planning and press "OK" to save it.
 
 ![Screenshot3](https://github.com/SAP-samples/teched2022-DA280/blob/main/exercises/5_Create_A_Smart_Predict_Scenario/images/Screenshot3.PNG)
 
