@@ -22,7 +22,7 @@ In this exercise, you will create a Smart Predict scenario with the energy price
 
 5. Navigate to your My Files folder and choose your "COPY_SAP_FI_CLM_IM_LIQUIDITY_PLANNING" model by clicking on it.
 
-![Screenshot5](https://github.com/SAP-samples/teched2022-DA280/blob/main/exercises/5_Create_A_Smart_Predict_Scenario/images/Screenshot5.PNG)
+![Screenshot5](/exercises/5_Create_A_Smart_Predict_Scenario/images/5_ModelSelection.png)
 
 6. In the Settings panel on the right, choose "Amount" as a measure, "Energy Expenses" as an account, "Time" as a date, "12" for the number of periods and "Company Code" & "Transaction Currency" for the Entity.
 
