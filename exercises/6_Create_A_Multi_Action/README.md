@@ -22,7 +22,7 @@ In this exercise, you will create a multi action with two steps.
 
 5. Set the name of the predictive step to "Predictive Liquidity Planning". Afterwards choose the Predictive Scenario which you have created in the step before (you find it in your My Files, in your TechEd folder).
 
-![Screenshot12](https://github.com/SAP-samples/teched2022-DA280/blob/main/exercises/6_Create_A_Multi_Action/images/Screenshot12.PNG)
+![Screenshot12](/exercises/6_Create_A_Multi_Action/images/6_ModelSelection.png)
 
 ![Screenshot13](https://github.com/SAP-samples/teched2022-DA280/blob/main/exercises/6_Create_A_Multi_Action/images/Screenshot13.PNG)
 
