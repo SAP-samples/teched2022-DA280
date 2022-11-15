@@ -56,7 +56,7 @@ This folder contains the story and data model which we will use as the basis for
 
 ![](/exercises/3_Copy_Model_and_Import_Data/images/screenshot12.png)
 
-9. The first view which is shown is the data preparation step. Here we could resolve data quality issues before the mapping step, but also wrangle data and make edits such as renaming columns, create transformations, etc. In our case, we can skip this step and proceed with the mapping.
+9. The first view which is shown is the data preparation step. Here we could resolve data quality issues before the mapping step, but also wrangle data and make edits such as renaming columns, create transformations, etc. In our case, we can skip this step clicking Next and proceed with the mapping.
 
 ![](/exercises/3_Copy_Model_and_Import_Data/images/screenshot13.png)
 
