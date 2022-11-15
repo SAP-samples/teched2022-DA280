@@ -24,7 +24,7 @@ In this exercise, you will create a Smart Predict scenario with the energy price
 
 ![Screenshot5](https://github.com/SAP-samples/teched2022-DA280/blob/main/exercises/5_Create_A_Smart_Predict_Scenario/images/Screenshot5.PNG)
 
-6. In the settings panel on the right, choose "Amount" as a measure, "Energy Expenses" as an account, "Time" as a date, "12" for the number of periods and "Company Code" & "Transaction Currency" for the Entity.
+6. In the Settings panel on the right, choose "Amount" as a measure, "Energy Expenses" as an account, "Time" as a date, "12" for the number of periods and "Company Code" & "Transaction Currency" for the Entity.
 
 ![Screenshot6](https://github.com/SAP-samples/teched2022-DA280/blob/main/exercises/5_Create_A_Smart_Predict_Scenario/images/Screenshot6.PNG)
 
