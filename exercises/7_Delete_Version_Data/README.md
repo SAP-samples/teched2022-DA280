@@ -14,7 +14,7 @@ To delete the version data, we will create a new Data Action. We navigate to the
 When entering a name within the Data Action Settings Panel, please make sure to add your Lastname as a suffix (Delete_Predictive_Forecast_Lastname). Before we can add any steps to the Data Action, we have to choose the correct model. This can either be done by selecting "COPY_SAP__FI_CLM_IM_LIQUIDITY_PLANNING" or by clicking on "Select Other Model ..." if the prior option is not available. 
 
 ![Deletion_7](https://user-images.githubusercontent.com/112930664/196192069-a5cefd6a-a75d-46d7-9c14-249debc4794c.png)
-The correct model can be found under "My Files" within the public folder "TechEd2022_DA280_SampleContent". Please click on this model to include it to the Data Action.
+The correct model can be found under "My Files" within your folder "TechEd2022_DA280_yourlastname". Please click on this model to include it to the Data Action.
 
 ![Deletion_8](https://user-images.githubusercontent.com/112930664/196192146-b79fbb57-b805-43ea-ae48-9b92275f96ed.png)
 To include a deletion step to the newly created Data Action, please choose the Advanced Formulas Step from the "Add Step" menu above.
