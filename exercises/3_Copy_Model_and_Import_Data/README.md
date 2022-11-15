@@ -64,7 +64,7 @@ This folder contains the story and data model which we will use as the basis for
 
 ![](/exercises/3_Copy_Model_and_Import_Data/images/screenshot14.png)
 
-11. In this view, we can add descriptions by mapping the description members of our source column to respective target column. The mapping is shown in the screenshot below. Once this is done, we click on Next. The system now validates the mappings and if no errors are found we can proceed to run the import.
+11. In the Dimension Properties view, we can add descriptions by mapping the description members of our source column to respective target column. The mapping is shown in the screenshot below. Once this is done, we click on Next. The system now validates the mappings and if no errors are found we can proceed to run the import.
 
 ![](/exercises/3_Copy_Model_and_Import_Data/images/screenshot15.png)
 
