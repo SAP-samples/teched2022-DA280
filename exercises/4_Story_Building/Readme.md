@@ -17,7 +17,7 @@ The second page (Liquidity Planning) is empty and we will now fill it.
 
 ![](/exercises/4_Story_Building/images/screenshot02.jpg)
 
-3. Let's also change the underlying data model of the table from the sample content to our own model which we previously created. To do so we click on change primary model and select the planning model we created in the TechEd folder in My Files.
+3. Let's also change the underlying data model of the table from the sample content to our own model which we previously created. To do so we click on change primary model and select the planning model we created in the TechEd folder in **My Files**.
 
 ![](/exercises/4_Story_Building/images/screenshot_add_01.png)
 
