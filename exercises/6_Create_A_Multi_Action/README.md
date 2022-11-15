@@ -54,4 +54,4 @@ Your Multi Action is created!
 
 ## Summary
 
-Now that you have created a multi action you can continue to - [Exercise 7 - Exercise 7 Description](../7_Delete_Version_Data/README.md)
+Now that you have created a multi action you can continue to - [Exercise 7 - Delete version data before running the prediction](../7_Delete_Version_Data/README.md)
