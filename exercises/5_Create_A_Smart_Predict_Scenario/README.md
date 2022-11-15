@@ -16,7 +16,7 @@ In this exercise, you will create a Smart Predict scenario with the energy price
 
 ![Screenshot3](https://github.com/SAP-samples/teched2022-DA280/blob/main/exercises/5_Create_A_Smart_Predict_Scenario/images/Screenshot3.PNG)
 
-4. Click on the marked icon to choose a data source model for the predicitve scenario.
+4. Click on the marked icon to choose a data source model for the predictive scenario.
 
 ![Screenshot4](https://github.com/SAP-samples/teched2022-DA280/blob/main/exercises/5_Create_A_Smart_Predict_Scenario/images/Screenshot4.PNG)
 
