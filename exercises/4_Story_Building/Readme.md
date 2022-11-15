@@ -11,7 +11,7 @@ On the second page (Liquidity Planning) there are already two planning triggers 
 
 1. To add a table to the story, switch the story from View mode to Edit mode, select the tab Liquidity Planning and click on "Table" in the "Insert" toolbar.
 
-![](/exercises/4_Story_Building/images/screenshot01.png)
+![](/exercises/4_Story_Building/images/screenshot01.jpg)
 
 2. We move the table to the left side of the story and resize its size as shown in the screenshot.
 
