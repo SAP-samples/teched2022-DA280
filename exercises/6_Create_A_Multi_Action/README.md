@@ -12,7 +12,7 @@ In this exercise, you will create a multi action with two steps.
 
 ![Screenshot9](https://github.com/SAP-samples/teched2022-DA280/blob/main/exercises/6_Create_A_Multi_Action/images/Screenshot9.PNG)
 
-3. Give your new Multi Action a name like shown in the Screenshot below (e.g. Predictive Liquidity Forecast)
+3. Give your new Multi Action a name like shown in the Screenshot below (e.g. Predictive Liquidity Forecast YourLastName). The reason you add your last name to the multi action name is to recognize yours later in the workflow. 
 
 ![Screenshot10](https://github.com/SAP-samples/teched2022-DA280/blob/main/exercises/6_Create_A_Multi_Action/images/Screenshot10.PNG)
 
