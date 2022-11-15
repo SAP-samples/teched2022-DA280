@@ -2,7 +2,7 @@
 We now want to export the generated plan data from SAP Analytics Cloud to SAP Data Warehouse Cloud. The plan data could be used for downstream processing and combined plan vs. ACT reporting there. 
 
 ## 9.1 - OAuth Client in SAP Analytics Cloud
-An OAuth Client has already been set up in SAP Analytics Cloud. You need its credentials and the SAC system's authorization URL and Token URL. Since you are not authorized to go to System - Administration - App Integration (where you would usually find this), please use the following credentials and URLs:
+An OAuth Client has already been set up in SAP Analytics Cloud. You need its credentials and the SAC system's authorization URL and token URL. Since you are not authorized to go to System - Administration - App Integration (where you would usually find this), please use the following credentials and URLs:
 
 If your SAP Analytics Cloud URL includes EU10:
 <br>OAuth Client ID: sb-25518ec4-4cc5-444f-883b-97ce341a9e18!b130365|client!b3650
