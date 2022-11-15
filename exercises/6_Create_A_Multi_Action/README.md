@@ -16,7 +16,7 @@ In this exercise, you will create a multi action with two steps.
 
 ![Screenshot10](https://github.com/SAP-samples/teched2022-DA280/blob/main/exercises/6_Create_A_Multi_Action/images/Screenshot10.PNG)
 
-4. Now Click on the marked "+" icon to add a new step to your Multi Action. Choose the "Predictive Scenario" step.
+4. Now Click on the marked "+" icon to add a new step to your Multi Action. Choose the "Predictive Step".
 
 ![Screenshot11](https://github.com/SAP-samples/teched2022-DA280/blob/main/exercises/6_Create_A_Multi_Action/images/Screenshot11.PNG)
 
