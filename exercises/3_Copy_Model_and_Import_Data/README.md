@@ -37,7 +37,7 @@ This folder contains the story and data model which we will use as the basis for
 
 ![](/exercises/3_Copy_Model_and_Import_Data/images/screenshot08.png)
 
-5. Next, we are prompted to select a connection from the dropdown list. We choose "DWC_TechEd_DA280_Union" as shown in the screenshot and click on "Next".
+5. Next, we are prompted to select a connection from the dropdown list. We choose the connection we defined during Exercise 2 and click on "Next".
 
 ![](/exercises/3_Copy_Model_and_Import_Data/images/screenshot09.png)
 
