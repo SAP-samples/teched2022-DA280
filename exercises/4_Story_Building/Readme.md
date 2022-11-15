@@ -17,7 +17,7 @@ On the second page (Liquidity Planning) there are already two planning triggers 
 
 ![](/exercises/4_Story_Building/images/screenshot02.png)
 
-3. Let's also change the underlying data model of the table from the sample content to our own model which we previously created. To do so we click on change primary model and select our data model.
+3. Let's also change the underlying data model of the table from the sample content to our own model which we previously created. To do so we click on change primary model and select the planning model we created in the TechEd folder in My Files.
 
 ![](/exercises/4_Story_Building/images/screenshot_add_01.png)
 
