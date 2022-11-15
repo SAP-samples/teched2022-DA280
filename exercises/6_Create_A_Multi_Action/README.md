@@ -36,7 +36,7 @@ In this exercise, you will create a multi action with two steps.
 
 8. Select a Model in the Panel on the right. Navigate to your TechEd folder in My Files and select the "COPY_SAP_FI_CLM_IM_LIQUIDITY_PLANNING" model by clicking on it.
 
-![Screenshot16](https://github.com/SAP-samples/teched2022-DA280/blob/main/exercises/6_Create_A_Multi_Action/images/Screenshot16.PNG)
+![Screenshot16](/exercises/6_Create_A_Multi_Action/images/6_1_ModelSelection.png)
 
 9. Choose Predictive Forecast as a Version and give this step a name like shown in the Screenshot (e.g. Publish Predictive Forecast):
 
