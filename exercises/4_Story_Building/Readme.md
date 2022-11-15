@@ -27,7 +27,7 @@ This can be done by clicking on "Add Dimensions" and then we choose "Transaction
 
 5. Next, we add the Time dimension to the columns of the table
 
-6. For Measures we change the Filter:
+6. For Transaction Currency we change the Filter:
 
 ![](/exercises/4_Story_Building/images/screenshot04.png)
 
