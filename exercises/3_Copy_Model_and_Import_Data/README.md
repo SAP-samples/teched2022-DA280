@@ -39,7 +39,7 @@ This folder contains the story and data model which we will use as the basis for
 
 5. Next, we are prompted to select a connection from the dropdown list. We choose the connection we defined during Exercise 2 and click on "Next".
 
-![](/exercises/3_Copy_Model_and_Import_Data/images/screenshot09.jpg)
+![](/exercises/3_Copy_Model_and_Import_Data/images/screenshot09.JPG)
 
 6. Now we create a new query for the OData Service and set the name to "V_Union_Actuals_and_Influencer" and select the corresponding table. Proceed with "Next".
 
