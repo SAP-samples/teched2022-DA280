@@ -38,7 +38,7 @@ This can be changed by dragging and dropping the Transaction Currency field in t
 
 ![](/exercises/4_Story_Building/images/screenshot06.png)
 
-8. We also filter the time dimension to 2020, 2021 and 2022 and expand the years 2020 and 2021. Let's also drill down on the liquidity items to have a more detailed view on the data. 
+8. We also filter the time dimension to 2020, 2021 and 2022 (using "Add Filters" and "Time (Member)")  and expand the years 2020 and 2021. Let's also drill down on the liquidity items to have a more detailed view on the data. 
 
 ![](/exercises/4_Story_Building/images/screenshot07.png)
 
