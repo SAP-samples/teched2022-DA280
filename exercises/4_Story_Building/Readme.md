@@ -34,7 +34,7 @@ select "Cash Closing", "Cash Opening" and "Cash Flows related to operating activ
 ![](/exercises/4_Story_Building/images/screenshot05.png)
 
 7. For better readability, we want the Transaction Currency column to be displayed as the first row of the table. 
-This can be changed by dragging and dropping the Transaction Currency field in the Builder panel to the Rows section.
+This can be changed by dragging and dropping the Transaction Currency field in the Builder panel as the first row of the Rows section.
 
 ![](/exercises/4_Story_Building/images/screenshot06.png)
 
