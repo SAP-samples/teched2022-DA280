@@ -42,7 +42,11 @@ This can be changed by dragging and dropping the Transaction Currency field in t
 
 ![](/exercises/4_Story_Building/images/screenshot07.png)
 
-9. For better contrast in the story, we can change the background color of the table to white in the Styling panel.
+9. We now delete the 2022 data from the table (our actuals stop in December 2021, the data with zeroes is due to a data quality problem)
+
+![](/exercises/4_Story_Building/images/screenshot_delete.png)
+
+10. For better contrast in the story, we can change the background color of the table to white in the Styling panel.
 
 ![](/exercises/4_Story_Building/images/screenshot08.png)
 
