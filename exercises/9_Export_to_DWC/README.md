@@ -28,8 +28,11 @@ In SAP Data Warehouse Cloud, go to Connections and click 'Create'.
 Choose conenction type 'Cloud Data Integration'.
 <br>![](/exercises/9_Export_to_DWC/images/8_5.png)
 
-Under connection details, enter the URL for the Data Export Service. In our case: https://my-sac-tenant.eu10.sapanalytics.cloud/api/v1/dataexport/administration
-Also, add the OAuth token endpoint URL that you get from the App Integration page in SAP Analytics Cloud.
+Under connection details, enter the URL for the Data Export Service. In our case that is either 
+<br>https://academy-t-sac.eu10.hcs.cloud.sap/api/v1/dataexport/administration or 
+<br>https://academy-t-sac.us10.hcs.cloud.sap/api/v1/dataexport/administration or 
+<br>https://academy-t-sac.ap11.hcs.cloud.sap/api/v1/dataexport/administration
+<br>Also, add the OAuth token endpoint URL that you get from the App Integration page in SAP Analytics Cloud.
 <br>![](/exercises/9_Export_to_DWC/images/8_6.png)
 
 Enter the OAuth Client ID and its secret.
