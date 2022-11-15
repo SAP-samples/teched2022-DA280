@@ -11,8 +11,8 @@ If your SAP Analytics Cloud URL includes EU10:
 <br>Authorization URL: https://academy-t-sac.authentication.eu10.hana.ondemand.com/oauth/authorize
 
 If your SAP Analytics Cloud URL includes US10:
-<br>OAuth Client ID: sb-25518ec4-4cc5-444f-883b-97ce341a9e18!b130365|client!b3650
-<br>Secret: cccfdbbc-9a90-4bc8-9c4e-2b8d50102bf6$xzsl5LGQNwvZIst2jqotcNOd-CEq7d8reWDWFeFebQY=
+<br>OAuth Client ID: sb-72eb83b7-acdf-484f-97c0-8a4a3a0ba2cf!b65597|client!b655
+<br>Secret: 475525ab-c4fa-4ed6-840f-c9c713c92f2f$M1oifsB8eb4UgUi_B3IoGX24RWARZIMjdsNYZ0ZmL0w=
 <br>Token URL: https://academy-t-sac.authentication.us10.hana.ondemand.com/oauth/token
 <br>Authorization URL: https://academy-t-sac.authentication.us10.hana.ondemand.com/oauth/authorize
 
