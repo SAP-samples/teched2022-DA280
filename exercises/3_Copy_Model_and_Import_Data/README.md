@@ -7,7 +7,7 @@ In this exercise, we will copy the planning model from the sample content into o
 
 ![screenshot01](https://user-images.githubusercontent.com/112691476/196177480-bf012fcc-6033-414d-a58b-ad321af88a2e.png)
 
-2. Next, we navigate to the public folder, where we can find the TechEd sample content.
+2. Next, we navigate to the Public folder, where we can find the TechEd sample content.
 This folder contains the story and data model which we will use as the basis for the next exercises.
 
 ![](/exercises/3_Copy_Model_and_Import_Data/images/screenshot02.png)
