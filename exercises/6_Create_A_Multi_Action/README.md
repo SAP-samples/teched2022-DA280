@@ -26,7 +26,7 @@ In this exercise, you will create a multi action with two steps.
 
 ![Screenshot13](https://github.com/SAP-samples/teched2022-DA280/blob/main/exercises/6_Create_A_Multi_Action/images/Screenshot13.PNG)
 
-6. For the Model choose "Model 1" and "Predictive Forecast as a version.
+6. For the Model choose "Model 1" and "Predictive Forecast" as a version.
 
 ![Screenshot14](https://github.com/SAP-samples/teched2022-DA280/blob/main/exercises/6_Create_A_Multi_Action/images/Screenshot14.PNG)
 
