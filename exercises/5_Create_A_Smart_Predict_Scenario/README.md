@@ -28,23 +28,14 @@ In this exercise, you will create a Smart Predict scenario with the energy price
 
 ![Screenshot6](https://github.com/SAP-samples/teched2022-DA280/blob/main/exercises/5_Create_A_Smart_Predict_Scenario/images/Screenshot6.PNG)
 
-7. Turn on the toggle to convert negative forecast values to zero and choose "Amount" and "Energy Price / GWh" in the dropdowns "Include As Influencer" and click on the confimation Icon.
+7. Turn on the toggle to convert negative forecast values to zero and choose "Amount" and "Energy Price / GWh" in the dropdowns "Include As Influencers" and click on the confimation icon.
 
-8. Afterwards click on "Train & Forecast.
+8. Afterwards click on "Train & Forecast".
 
 ![Screenshot7](https://github.com/SAP-samples/teched2022-DA280/blob/main/exercises/5_Create_A_Smart_Predict_Scenario/images/Screenshot7.PNG)
 
-8. Click on the "Save" icon to save your Smart Predict Scenario
-
-![Screenshot18](https://github.com/SAP-samples/teched2022-DA280/blob/main/exercises/5_Create_A_Smart_Predict_Scenario/images/Screenshot18.PNG)
-
 Your Smart Predict Scenario is created! Now you can review the results.
-
-
-
-
-
 
 ## Summary
 
-Now that you have created a smart predict scenario you can continue to - [Exercise 6 - Create a Multi Action](../6_Create_A_Multi_Action/README.md)
+Now that you have created a Smart Predict scenario you can continue to - [Exercise 6 - Create a Multi Action](../6_Create_A_Multi_Action/README.md)
