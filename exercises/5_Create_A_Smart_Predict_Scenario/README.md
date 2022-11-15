@@ -20,7 +20,7 @@ In this exercise, you will create a Smart Predict scenario with the energy price
 
 ![Screenshot4](https://github.com/SAP-samples/teched2022-DA280/blob/main/exercises/5_Create_A_Smart_Predict_Scenario/images/Screenshot4.PNG)
 
-5. Navigate to your folder and choose the "COPY_SAP_FI_CLM_IM_LIQUIDITY_PLANNING" model by clicking on it.
+5. Navigate to your My Files folder and choose your "COPY_SAP_FI_CLM_IM_LIQUIDITY_PLANNING" model by clicking on it.
 
 ![Screenshot5](https://github.com/SAP-samples/teched2022-DA280/blob/main/exercises/5_Create_A_Smart_Predict_Scenario/images/Screenshot5.PNG)
 
