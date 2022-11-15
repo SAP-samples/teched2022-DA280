@@ -15,7 +15,7 @@ On the second page (Liquidity Planning) there are already two planning triggers 
 
 2. We move the table to the left side of the story and resize its size as shown in the screenshot.
 
-![](/exercises/4_Story_Building/images/screenshot02.png)
+![](/exercises/4_Story_Building/images/screenshot02.jpg)
 
 3. Let's also change the underlying data model of the table from the sample content to our own model which we previously created. To do so we click on change primary model and select the planning model we created in the TechEd folder in My Files.
 
