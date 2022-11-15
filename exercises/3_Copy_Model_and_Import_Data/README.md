@@ -32,7 +32,6 @@ This folder contains the story and data model which we will use as the basis for
 
 ![](/exercises/3_Copy_Model_and_Import_Data/images/screenshot07.png)
 
-
 4. In the pop-up window we choose OData Services.
 
 ![](/exercises/3_Copy_Model_and_Import_Data/images/screenshot08.png)
@@ -56,7 +55,7 @@ This folder contains the story and data model which we will use as the basis for
 
 ![](/exercises/3_Copy_Model_and_Import_Data/images/screenshot12.png)
 
-9. The first view which is shown is the data preparation step. Here we could resolve data quality issues before the mapping step, but also wrangle data and make edits such as renaming columns, create transformations, etc. In our case, we can skip this step clicking Next and proceed with the mapping.
+9. The first view which is shown is the data preparation step. Here we could resolve data quality issues before the mapping step, but also wrangle data and make edits such as renaming columns, create transformations, etc. In our case, we can skip this step clicking "Next" and proceed with the mapping.
 
 ![](/exercises/3_Copy_Model_and_Import_Data/images/screenshot13.png)
 
@@ -64,7 +63,7 @@ This folder contains the story and data model which we will use as the basis for
 
 ![](/exercises/3_Copy_Model_and_Import_Data/images/screenshot14.png)
 
-11. In the Dimension Properties view, we can add descriptions by mapping the description members of our source column to respective target column. The mapping is shown in the screenshot below. Once this is done, we click on Next. The system now validates the mappings and if no errors are found we can proceed to run the import.
+11. In the Dimension Properties view, we can add descriptions by mapping the description members of our source column to respective target column. The mapping is shown in the screenshot below. Once this is done, we click on "Next". The system now validates the mappings and if no errors are found we can proceed to run the import.
 
 ![](/exercises/3_Copy_Model_and_Import_Data/images/screenshot15.png)
 
