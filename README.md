@@ -23,7 +23,7 @@ The requirements to follow the exercises in this repository are:
 
 - SAP DWC tenant
 
-The above requirements have already been met and have been pre-created by SAP. [Use this URL to register for our tenants!](https://teched-reg-virtual-workshop-ui.cfapps.eu10-004.hana.ondemand.com/DA280/index.html) The tenants will be available until November 30, 2022.
+The above requirements have already been met and have been pre-created by SAP. [Follow this instruction to register for our tenants!](exercises/00_Register) The tenants will be available until November 30, 2022.
 
 Apart from that, we recommend basic proficiency with modeling and story building in SAP Analytics Cloud and basic proficiency with SAP Data Warehouse Cloud. However, the exercises are suitable for everyone if the materials recommended in the 'Learn More' section are considered.
 
