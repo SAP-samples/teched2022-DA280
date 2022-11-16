@@ -74,12 +74,12 @@ This way, we can directly see the liquidity item, without having to drill down t
 
 ![](/exercises/4_Story_Building/images/screenshot12.png)
 
-Now, please save your story again.
+5. Now, please save your story again.
 ![](/exercises/4_Story_Building/images/4_SaveStory.png)
-
 
 ## Summary
 
 We have now created two tables in the story based on the imported data!
-We can now continue to - [Exercise 5 - Create a Smart Predict Scenario](../5_Create_A_Smart_Predict_Scenario/README.md).
+We can now continue to - [Exercise 5 - Create a Smart Predict Scenario](../5_Create_A_Smart_Predict_Scenario/README.md). 
+If prompted whether to publish youd data changes, select "Leave" and do not publish your changes.
 
