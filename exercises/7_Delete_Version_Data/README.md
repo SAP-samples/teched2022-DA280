@@ -27,6 +27,7 @@ Please make sure to select the planning model you created in your TechEd folder 
 ![Deletion 12](https://user-images.githubusercontent.com/112930664/196198889-625baaf4-4a10-4679-b71b-79e52a8466cb.png)
 
 5. Save the Data Action you just created using the name given in the beginning of these steps. **During testing, we rarely faced an issue saving the Data Action. If this occurs, please reload and repeat.**
+![](/exercises/7_Delete_Version_Data/images/7_Save.png)
 
 ## Summary
 
