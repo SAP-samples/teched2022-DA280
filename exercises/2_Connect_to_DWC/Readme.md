@@ -10,7 +10,7 @@ In this short exercise, we will create a connection from SAP Analytics Cloud to 
 
 3. Last but not least, we need to configure the details:
 
-If your SAP Analytics Cloud URL includes EU10 (e.g. https://academy-t-sac.eu10.hcs.cloud.sap/):
+If your SAP Analytics Cloud URL includes **EU10** (e.g. https://academy-t-sac.eu10.hcs.cloud.sap/):
 - Connection Name: DA280_<your_sac_user_id>
 - Data Service URL: https://academy-t-dwc.eu10.hcs.cloud.sap/api/v1/dwc/consumption/relational/<your_dwc_space_id>/<your_analytical_dataset> 
 - Authentication Type: OAuth 2.0 Authorization Code
@@ -21,7 +21,8 @@ If your SAP Analytics Cloud URL includes EU10 (e.g. https://academy-t-sac.eu10.h
 
 An example for the Data Service URL would be: https://academy-t-dwc.eu10.hcs.cloud.sap/api/v1/dwc/consumption/relational/TECHED_DEMO/V_Union_Actuals_and_Influencer  
 
-If your SAP Analytics Cloud URL includes US10 (e.g. https://academy-t-sac.us10.hcs.cloud.sap/):
+
+If your SAP Analytics Cloud URL includes **US10** (e.g. https://academy-t-sac.us10.hcs.cloud.sap/):
 - Connection Name: DA280_<your_sac_user_id>
 - Data Service URL: https://academy-t-dwc.us10.hcs.cloud.sap/api/v1/dwc/consumption/relational/<your_dwc_space_id>/<your_analytical_dataset> 
 - Authentication Type: OAuth 2.0 Authorization Code
@@ -32,7 +33,8 @@ If your SAP Analytics Cloud URL includes US10 (e.g. https://academy-t-sac.us10.h
 
 An example for the Data Service URL would be: https://academy-t-dwc.us10.hcs.cloud.sap/api/v1/dwc/consumption/relational/TECHED_DEMO/V_Union_Actuals_and_Influencer 
 
-If your SAP Analytics Cloud URL includes AP11 (e.g. https://academy-t-sac.ap11.hcs.cloud.sap/):
+
+If your SAP Analytics Cloud URL includes **AP11** https://academy-t-sac.ap11.hcs.cloud.sap/:
 - Connection Name: DA280_<your_sac_user_id>
 - Data Service URL: https://academy-t-dwc.ap11.hcs.cloud.sap/api/v1/dwc/consumption/relational/<your_dwc_space_id>/<your_analytical_dataset> 
 - Authentication Type: OAuth 2.0 Authorization Code
