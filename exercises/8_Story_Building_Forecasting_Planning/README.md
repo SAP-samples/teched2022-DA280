@@ -11,11 +11,11 @@ After completing these steps you will have knowledge of how to involve Data Acti
 
 2. Navigate to page 2 in the navigation panel to include a Multi Action and a Data Action to the Story. In the beginning of this Task, the Story should look similar to the one in the image below.
 
-![Exercise8_02](https://user-images.githubusercontent.com/112930664/202113238-c7f31173-6686-4f6d-9f6f-fa1980f247b1.png)
+![](/exercises/8_Story_Building_Forecasting_Planning/images/8_Story2.png)
 
 3. At first, you will create the Multi Action Trigger event. Therefore, please press the + Button in the Insert Panel of the menu bar. When clicking the planning trigger, another window as shown in 4. will pop up to the screen. Make sure that you are in Edit mode.
 
-![Exercise8_03](https://user-images.githubusercontent.com/112930664/202113240-6f341a1e-6655-4da9-b2d5-bebb01e2039b.png)
+![](/exercises/8_Story_Building_Forecasting_Planning/images/8_PlanningTrigger2.png)
 
 4. The Predictive Forecast is created as a Multi Action, the delete operation is created as a Data Action Trigger. We will begin by adding the predictive forecast. Therefore please click the Multi Action Trigger button within the popup window.
 
@@ -34,7 +34,7 @@ After completing these steps you will have knowledge of how to involve Data Acti
 
 8. After creating both the Multi Action Trigger and the Data Action Trigger events, our Canvas should look similar to the one below.
 
-![Exercise8_07](https://user-images.githubusercontent.com/112930664/202113247-9c8b9447-13df-48ff-bb6c-9f1e4b566a81.png)
+![](/exercises/8_Story_Building_Forecasting_Planning/images/8_Overview.png))
 
 9. Finally, we can first run the Delete Data Action and then our Predictive Forecast Multi Action and review the results. For that, we need to add the Predictive Forecast to the version filter of the table and drill down to the energy expense line item (depending on if you had the Liquidity Item hierarchy active or not).
 
