@@ -13,7 +13,7 @@ After completing these steps you will have knowledge of how to involve Data Acti
 
 ![Exercise8_02](https://user-images.githubusercontent.com/112930664/202113238-c7f31173-6686-4f6d-9f6f-fa1980f247b1.png)
 
-3. At first, you will create the Multi Action Trigger event. Therefore, please press the + Button in the Insert Panel of the menu bar. When clicking the planning trigger, another window as shown in 4. will pop up to the screen.
+3. At first, you will create the Multi Action Trigger event. Therefore, please press the + Button in the Insert Panel of the menu bar. When clicking the planning trigger, another window as shown in 4. will pop up to the screen. Make sure that you are in Edit mode.
 
 ![Exercise8_03](https://user-images.githubusercontent.com/112930664/202113240-6f341a1e-6655-4da9-b2d5-bebb01e2039b.png)
 
@@ -21,7 +21,7 @@ After completing these steps you will have knowledge of how to involve Data Acti
 
 ![Exercise8_04](https://user-images.githubusercontent.com/112930664/202113242-aa140fc5-35f1-4e6f-9cb7-dffe75679c3a.png)
 
-5. For including the prior created Multi Action into the Event Trigger, you can add the underlying Multi Action through the Builder Panel. There you can also add a shown Label for the Multi Action Event Trigger. For the Multi Action, select the "Predictive Liquidity Forecast" you have created before as part of this TechEd Demo.
+5. For including the prior created Multi Action into the Planning Trigger, you can add the underlying Multi Action through the Builder Panel. There you can also add a shown Label for the Multi Action Event Trigger. For the Multi Action, select the "Predictive Liquidity Forecast" you have created before as part of this TechEd Demo.
 
 ![Exercise8_06](https://user-images.githubusercontent.com/112930664/202113245-bd78e94e-bdf0-48ed-8165-aa854f5ee1ff.png)
 
