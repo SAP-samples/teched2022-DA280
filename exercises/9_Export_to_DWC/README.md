@@ -4,17 +4,17 @@ We now want to export the generated plan data from SAP Analytics Cloud to SAP Da
 ## 9.1 - OAuth Client in SAP Analytics Cloud
 An OAuth Client has already been set up in SAP Analytics Cloud. You need its credentials and the SAC system's token URL. Since you are not authorized to go to System - Administration - App Integration (where you would usually find this), please use the following credentials and URLs:
 
-If your SAP Analytics Cloud URL includes EU10:
+If your SAP Analytics Cloud URL includes **EU10** (e.g. https://academy-t-sac.eu10.hcs.cloud.sap/):
 <br>OAuth Client ID: sb-25518ec4-4cc5-444f-883b-97ce341a9e18!b130365|client!b3650
 <br>Secret: cccfdbbc-9a90-4bc8-9c4e-2b8d50102bf6$xzsl5LGQNwvZIst2jqotcNOd-CEq7d8reWDWFeFebQY=
 <br>Token URL: https://academy-t-sac.authentication.eu10.hana.ondemand.com/oauth/token
 
-If your SAP Analytics Cloud URL includes US10:
+If your SAP Analytics Cloud URL includes **US10** (e.g. https://academy-t-sac.us10.hcs.cloud.sap/):
 <br>OAuth Client ID: sb-72eb83b7-acdf-484f-97c0-8a4a3a0ba2cf!b65597|client!b655
 <br>Secret: 475525ab-c4fa-4ed6-840f-c9c713c92f2f$M1oifsB8eb4UgUi_B3IoGX24RWARZIMjdsNYZ0ZmL0w=
 <br>Token URL: https://academy-t-sac.authentication.us10.hana.ondemand.com/oauth/token
 
-If your SAP Analytics Cloud URL includes AP11:
+If your SAP Analytics Cloud URL includes **AP11** (e.g. https://academy-t-sac.ap11.hcs.cloud.sap/):
 <br>OAuth Client ID: sb-70e53f44-cd8b-44e3-878a-139a91d1fbaf!b852|client!b23
 <br>Secret: 61348c6c-40f6-43dc-a093-feff154e6e3d$YmsWVbmrBNQ4XDlmmOpmyyq1FsV-YkwKChTf90oLGq0=
 <br>Token URL: https://academy-t-sac.authentication.ap11.hana.ondemand.com/oauth/token
