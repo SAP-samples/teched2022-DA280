@@ -25,7 +25,7 @@ After completing these steps you will have knowledge of how to involve Data Acti
 
 ![](/exercises/8_Story_Building_Forecasting_Planning/images/8_MA.png)
 
-6. To create the second Data Action Trigger, navigate to the Action Trigger Insertion similar to 3. & 4. but instead of choosing a Multi Action Trigger, this time we will add a Data Action Trigger instead. Similar to 5., we give that Data Action Trigger an underlying Data Action and a shown label to describe what happens after clicking it. The underlying Data Action is the one created in the prior exercise for Deletion. In Case of this Demo, we named it "Delete_Predictive_Forecast" + our last name.
+6. To create the second Data Action Trigger, navigate to the Action Trigger Insertion similar to 3. & 4. but instead of choosing a Multi Action Trigger, this time we will add a Data Action Trigger instead. Similar to 5., we give that Data Action Trigger an underlying Data Action and a shown label "Clear Predictive Forecast" to describe what happens after clicking it. The underlying Data Action is the one created in the prior exercise for Deletion. In Case of this Demo, we named it "Delete_Predictive_Forecast" + our last name.
 
 ![](/exercises/8_Story_Building_Forecasting_Planning/images/8_DA.png)
 
