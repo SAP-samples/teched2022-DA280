@@ -59,13 +59,16 @@ This can be changed by dragging and dropping the Transaction Currency field in t
 
 Now that we have created our table with liquidity items, we also want to get insights into our influencer data. For that, we create another table below.
 
-1. The rows of this table consist of "Transaction Currency", "Liquidity Item", "Company Code". "Liquidity Item" is filtered on "Influencers".
-2. The columns consist of the measure "Amount", "Version" and "Time". 
-3. We set the Time Hierarchy to "Year, Month", filter Time to "2021" and "2022" and set the background color to white again.
+1. Make sure to select your model from the copied folder in My Files again.
+![](/exercises/4_Story_Building/images/screenshot_add_01.png)
+
+2. The rows of this table consist of "Transaction Currency", "Liquidity Item", "Company Code". "Liquidity Item" is filtered on "Influencers".
+3. The columns consist of the measure "Amount", "Version" and "Time". 
+4. We set the Time Hierarchy to "Year, Month", filter Time to "2021" and "2022" and set the background color to white again.
 
 ![](/exercises/4_Story_Building/images/screenshot09.png)
 
-4. To directly see the exact liquidity item node, we can change the hierarchy on "Liquidity Item". We right click on the respective column, choose "Select Hierarchy" and click on "Show only leaves in widget". 
+5. To directly see the exact liquidity item node, we can change the hierarchy on "Liquidity Item". We right click on the respective column, choose "Select Hierarchy" and click on "Show only leaves in widget". 
 
 ![](/exercises/4_Story_Building/images/screenshot10.png)
 ![](/exercises/4_Story_Building/images/screenshot11.png)
@@ -74,7 +77,7 @@ This way, we can directly see the liquidity item, without having to drill down t
 
 ![](/exercises/4_Story_Building/images/screenshot12.png)
 
-5. Now, please save your story again.
+6. Now, please save your story again.
 ![](/exercises/4_Story_Building/images/4_SaveStory.png)
 
 ## Summary
