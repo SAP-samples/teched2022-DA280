@@ -22,6 +22,7 @@ If your SAP Analytics Cloud URL includes **EU10** (e.g. https://academy-t-sac.eu
 An example for the Data Service URL would be: https://academy-t-dwc.eu10.hcs.cloud.sap/api/v1/dwc/consumption/relational/TECHED_DEMO/V_Union_Actuals_and_Influencer  
 
 
+
 If your SAP Analytics Cloud URL includes **US10** (e.g. https://academy-t-sac.us10.hcs.cloud.sap/):
 - Connection Name: DA280_<your_sac_user_id>
 - Data Service URL: https://academy-t-dwc.us10.hcs.cloud.sap/api/v1/dwc/consumption/relational/<your_dwc_space_id>/<your_analytical_dataset> 
@@ -32,6 +33,7 @@ If your SAP Analytics Cloud URL includes **US10** (e.g. https://academy-t-sac.us
 - Authorization URL: https://academy-t-dwc.authentication.us10.hana.ondemand.com/oauth/authorize
 
 An example for the Data Service URL would be: https://academy-t-dwc.us10.hcs.cloud.sap/api/v1/dwc/consumption/relational/TECHED_DEMO/V_Union_Actuals_and_Influencer 
+
 
 
 If your SAP Analytics Cloud URL includes **AP11** https://academy-t-sac.ap11.hcs.cloud.sap/:
