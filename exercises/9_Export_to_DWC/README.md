@@ -70,3 +70,7 @@ If your SAP Analytics Cloud URL includes **AP11** (e.g. https://academy-t-sac.ap
 <br>![](/exercises/9_Export_to_DWC/images/8_19.png)
 
 **Congratulations! You have completed all exercises! Thanks so much!**
+
+In a real scenario, you could now use this data to feed it into your corporate plan vs. actual reporting, you could use it to feed other planning processes etc. 
+
+Please note, that when using a Data Provisioning agent and remote tables, you could also enable delta replication for the extraction of SAP Analytics Cloud data to SAP Data Warehouse Cloud!
