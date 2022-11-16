@@ -29,7 +29,7 @@ If your SAP Analytics Cloud URL includes **AP11** (e.g. https://academy-t-sac.ap
 <br>https://academy-t-sac.eu10.hcs.cloud.sap/api/v1/dataexport/administration or 
 <br>https://academy-t-sac.us10.hcs.cloud.sap/api/v1/dataexport/administration or 
 <br>https://academy-t-sac.ap11.hcs.cloud.sap/api/v1/dataexport/administration
-<br>Also, add the OAuth token endpoint URL that you get from the App Integration page in SAP Analytics Cloud.
+<br>Also, add the OAuth token endpoint URL that you get from the beginning of this page. 
 <br>![](/exercises/9_Export_to_DWC/images/8_6.png)
 
 4. Enter the OAuth Client ID and its secret.
