@@ -31,6 +31,8 @@ Exercise 0 explains the architecture of the exercises and provides information r
 
 The hands-on exercises begin with Exercise 1.
 
+Please note that SAP Analytics Cloud and SAP Data Warehouse Cloud perform best in Google Chrome. 
+
 ## Exercises
 
 Here you find direct jumps to the distinct exercises:
