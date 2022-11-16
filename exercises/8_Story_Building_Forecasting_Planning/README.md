@@ -36,7 +36,7 @@ After completing these steps you will have knowledge of how to involve Data Acti
 
 ![Exercise8_07](https://user-images.githubusercontent.com/112930664/202113247-9c8b9447-13df-48ff-bb6c-9f1e4b566a81.png)
 
-9. Finally, we can first run the Delete Data Action and then our Predictive Forecast Multi Action and review the results. For that, we need to add the Predictive Forecast to the version filter of the table and drill down to the energy expense line item.
+9. Finally, we can first run the Delete Data Action and then our Predictive Forecast Multi Action and review the results. For that, we need to add the Predictive Forecast to the version filter of the table and drill down to the energy expense line item (depending on if you had the Liquidity Item hierarchy active or not).
 
 ![](/exercises/8_Story_Building_Forecasting_Planning/images/8_DrillDown.png)
 
