@@ -22,7 +22,7 @@ If your SAP Analytics Cloud URL includes **AP11** (e.g. https://academy-t-sac.ap
 1. In SAP Data Warehouse Cloud, go to Connections and click 'Create'.
 <br>![](/exercises/9_Export_to_DWC/images/8_4.png)
 
-2. Choose conenction type 'Cloud Data Integration'.
+2. Choose connection type 'Cloud Data Integration'.
 <br>![](/exercises/9_Export_to_DWC/images/8_5.png)
 
 3. Under connection details, enter the URL for the Data Export Service. In our case that is either 
