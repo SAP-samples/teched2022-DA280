@@ -7,39 +7,32 @@ After completing these steps you will have knowledge of how to involve Data Acti
 
 1. In this exercise, the "SAP__FI_CLM_LIQUIDITY_PLANNING" Story is used. This File can be found in the MyFiles folder copied from the "TechEd2022_DA280_SampleContent" as "TechEd2022_DA280_#Lastname" in the prior exercises.
 
-//Image 8_01 missing
+![Exercise8_01](https://user-images.githubusercontent.com/112930664/202113235-af831d1b-ce88-4007-a411-52d6abc04fd5.png)
 
 2. Navigate to page 2 in the navigation panel to include a Multi Action and a Data Action to the Story. In the beginning of this Task, the Story should look similar to the one in the image below.
-//Image 8_02 missing
+
+![Exercise8_02](https://user-images.githubusercontent.com/112930664/202113238-c7f31173-6686-4f6d-9f6f-fa1980f247b1.png)
 
 3. At first, you will create the Multi Action Trigger event. Therefore, please press the + Button in the Insert Panel of the menu bar. When clicking the planning trigger, another window as shown in 4. will pop up to the screen.
-//Image 8_03
+
+![Exercise8_03](https://user-images.githubusercontent.com/112930664/202113240-6f341a1e-6655-4da9-b2d5-bebb01e2039b.png)
 
 4. The Predictive Forecast is created as a Multi Action, the delete operation is created as a Data Action Trigger. We will begin by adding the predictive forecast. Therefore please click the Multi Action Trigger button within the popup window.
 
-//Image 8_04
+![Exercise8_04](https://user-images.githubusercontent.com/112930664/202113242-aa140fc5-35f1-4e6f-9cb7-dffe75679c3a.png)
 
 5. For including the prior created Multi Action into the Event Trigger, you can add the underlying Multi Action through the Builder Panel. There you can also add a shown Label for the Multi Action Event Trigger. For the Multi Action, select the "Predictive Liquidity Forecast" you have created before as part of this TechEd Demo.
 
-//Image 8_06
+![Exercise8_06](https://user-images.githubusercontent.com/112930664/202113245-bd78e94e-bdf0-48ed-8165-aa854f5ee1ff.png)
 
-6. To create the second Data Action Trigger, navigate to the Action Trigger Insertion similar to 3. & 4. but instead of choosing a Multi Action Trigger, this time we will add a Data Action Trigger instead.
+6. To create the second Data Action Trigger, navigate to the Action Trigger Insertion similar to 3. & 4. but instead of choosing a Multi Action Trigger, this time we will add a Data Action Trigger instead. Similar to 5., we give that Data Action Trigger an underlying Data Action and a shown label to describe what happens after clicking it. The underlying Data Action is the one created in the prior exercise for Deletion. In Case of this Demo, we named it "Delete_Predictive_Forecast" and saved it in the Myfiles folder.
 
+![Exercise8_08](https://user-images.githubusercontent.com/112930664/202113250-2e6743a6-4650-4eee-a41c-774728233c63.png)
 
-![Ex8_1](https://user-images.githubusercontent.com/112930664/197132153-11371e97-0ce1-403f-9528-cc845b7d1217.png)
-2.	Navigate to page 2 in the navigation panel to create another story for the predictive forecast. After including the multi action trigger and the data action trigger, the story should look similar to the one below.
-![ex8_2](https://user-images.githubusercontent.com/112930664/197132155-2f714d97-e6c3-4f5e-b771-7b51a3c2089a.png)
-3. At first, we are creating a Multi Action Trigger event. Therefore we press the + Button above and navigate to Planning Trigger. When clicking the Planning Trigger, another window as shown in 4. will pop up.
-![ex8_3](https://user-images.githubusercontent.com/112930664/197132158-d7b919f0-38a4-4597-8d91-89933381e1c3.png)
-4. The predictive forecast is created as a multi action, the delete operation is created as a data Action Trigger. At first, we will add the predictive forecast. Therefore please click the Multi Action Trigger button within the popup window. 
-![ex8_4](https://user-images.githubusercontent.com/112930664/197132160-4979846c-f3fa-40ef-9d57-f69ff7c9dceb.png)
-5. For the Multi Action Trigger, you can add the underlying Multi Action through the Builder panel. There you can also add a shown Label.
-For the multi action, select the SAP__FI_CLM_PLF_RUN_PRED_LIQ_FC_FOR_PRIVATE_VERSION.
-![ex8_5](https://user-images.githubusercontent.com/112930664/197132148-c9f94641-211a-46b8-9a21-dae29a3ba2c3.png)
-6. To create the second Data Action Trigger, navigate to the Action Trigger insertion similar to 3. & 4. but instead of the Multi Action Trigger, this time we will add a Data Action Trigger.
-![ex8_6](https://user-images.githubusercontent.com/112930664/197132150-d1e7e66d-5b82-48f0-a18e-8b052a55aefd.png)
-7. Similar to 5., we give the Data Action Trigger an underlying Data Action and a shown Label. In this case, we select the SAP__FI_CLM_LIQPLN_DEL_VERSION as the underlying Data Action. Further below within the builder panel, you also have the option to change parameters, so you could for example set the version to change to a fixed value, so you always use this Action Trigger only for the chosen Value. 
-![ex8_7](https://user-images.githubusercontent.com/112930664/197132151-98ed35c9-e6c3-4f99-94ad-4f07047f12b7.png)
+7. After creating both the Multi Action Trigger and the Data Action Trigger events, our Canvas should look similar to the one below.
+
+![Exercise8_07](https://user-images.githubusercontent.com/112930664/202113247-9c8b9447-13df-48ff-bb6c-9f1e4b566a81.png)
+
 ## Summary
 
 Now that you have built in the prior created Action triggers, you have learnt how to include these into a story in SAC.
