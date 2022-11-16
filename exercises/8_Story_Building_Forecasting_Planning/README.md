@@ -23,15 +23,20 @@ After completing these steps you will have knowledge of how to involve Data Acti
 
 5. For including the prior created Multi Action into the Planning Trigger, you can add the underlying Multi Action through the Builder Panel. There you can also add a shown Label for the Multi Action Event Trigger. For the Multi Action, select the "Predictive Liquidity Forecast" you have created before as part of this TechEd Demo.
 
-![Exercise8_06](https://user-images.githubusercontent.com/112930664/202113245-bd78e94e-bdf0-48ed-8165-aa854f5ee1ff.png)
+![](/exercises/8_Story_Building_Forecasting_Planning/images/8_MA.png)
 
-6. To create the second Data Action Trigger, navigate to the Action Trigger Insertion similar to 3. & 4. but instead of choosing a Multi Action Trigger, this time we will add a Data Action Trigger instead. Similar to 5., we give that Data Action Trigger an underlying Data Action and a shown label to describe what happens after clicking it. The underlying Data Action is the one created in the prior exercise for Deletion. In Case of this Demo, we named it "Delete_Predictive_Forecast" and saved it in the Myfiles folder.
+6. To create the second Data Action Trigger, navigate to the Action Trigger Insertion similar to 3. & 4. but instead of choosing a Multi Action Trigger, this time we will add a Data Action Trigger instead. Similar to 5., we give that Data Action Trigger an underlying Data Action and a shown label to describe what happens after clicking it. The underlying Data Action is the one created in the prior exercise for Deletion. In Case of this Demo, we named it "Delete_Predictive_Forecast" + our last name.
 
-![Exercise8_08](https://user-images.githubusercontent.com/112930664/202113250-2e6743a6-4650-4eee-a41c-774728233c63.png)
+![](/exercises/8_Story_Building_Forecasting_Planning/images/8_DA.png)
 
-7. After creating both the Multi Action Trigger and the Data Action Trigger events, our Canvas should look similar to the one below.
+7. We fix the Target Version parameter to Predictive Forecast to always clear our Predictive Forecast Version.
+![](/exercises/8_Story_Building_Forecasting_Planning/images/8_Parameter.png) 
+
+8. After creating both the Multi Action Trigger and the Data Action Trigger events, our Canvas should look similar to the one below.
 
 ![Exercise8_07](https://user-images.githubusercontent.com/112930664/202113247-9c8b9447-13df-48ff-bb6c-9f1e4b566a81.png)
+
+9. Finally, we can first run the Delete Data Action and then our Predictive Forecast Multi Action and review the results.
 
 ## Summary
 
