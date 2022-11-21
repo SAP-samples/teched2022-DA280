@@ -1,4 +1,4 @@
-# Register for our TechEd Tenants!
+# Register for our TechEd Tenants! (Please note: Available until December 16, 2022)
 
 1. [Use this URL to register for our tenants](https://teched-reg-virtual-workshop-ui.cfapps.eu10-004.hana.ondemand.com/DA280/index.html)
 
